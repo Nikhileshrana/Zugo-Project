@@ -73,7 +73,7 @@ document.querySelector('.product__media-item').addEventListener('click', functio
             </style>
         </head>
         <body>
-            <button onclick="window.close()">
+            <button onclick="window.close()" style="background:transparent; border:0px;">
             
 
             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 30 30">
