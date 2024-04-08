@@ -1,1 +1,744 @@
-{"sections":{"custom_liquid_cXPDdn":{"type":"custom-liquid","settings":{"custom_liquid":"<style>\n  video {\n  width: 100%;\n  height: 92vh;\n  object-fit:cover;\n  }\n  <\/style>\n  \n  <video muted autoplay playsinline loop>\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/01be9e9778584d44bafb90eacce4d650.mp4\"\n                    type=\"video\/mp4\">\n  <\/video>\n  \n  \n    \n  <h2 id=\"h2_nikhilesh\">Personalised meaningful jewellery<\/h2>\n\n  <div id=\"button_main_1\">\n  <a href=\"\/collections\/all\"><button id=\"shop_now_nikhilesh\">SHOP THE LOOK<\/button><\/a>\n  <\/div>\n\n\n  <style>\n  #button_main_1 , #h2_nikhilesh\n  {\n      padding:0px;\n      position: relative;  \n      display:block;\n      width:100%;\n      align-items: center;\n      display: flex;\n      justify-content: center;\n      color: white;\nbottom:250px;\n  }\n  \n  #button_main_1\n  {\n  bottom: 4%;\nposition:relative;\nbottom:250px;\nmargin:0px;\n  }\n  \n  #shop_now_nikhilesh\n  {\n  color:white;\n  padding:1.3vh;\n      border: 1.35px white solid;\n      background-color: transparent;\n      transition: ease;\n      transition-duration: 500ms;\n      position: relative;\n  padding-left : 4vh;\n  padding-right : 4vh;\n  font-weight : 400;\n  font-family  :Amiri, serif;\n  font-size : 1.5rem;\n  letter-spacing : 0.1rem;\n  }\n  \n  #shop_now_nikhilesh:hover\n  {\n  transform: translate(0,-5px);\n      transition: ease;\n      transition-duration: 250ms;\n  cursor: pointer;\n  }\n  <\/style>\n  \n  \n  \n  \n  <style>\n  @media only screen and (max-width: 1000px)\n  {\n  h2\n  {\n  text-align : center;\nmargin:0px;\nmargin-bottom:10px;\n  }\n  }\n  <\/style>","color_scheme":"","padding_top":0,"padding_bottom":0}},"rich_text_8qnVpq":{"type":"rich-text","blocks":{"heading_VzPEEn":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_jUAcCf":{"type":"text","settings":{"text":""}},"button_jNRJcm":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_VzPEEn","text_jUAcCf","button_jNRJcm"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":12,"padding_bottom":16}},"rich_text_hkQ4Cb":{"type":"rich-text","blocks":{"heading_yez73q":{"type":"heading","settings":{"heading":"BEYOND JEWELLERY","heading_size":"h2"}},"text_Ve4RXx":{"type":"text","settings":{"text":"<h5>Cease the moment. Tell a story.<br\/><\/h5>"}}},"block_order":["heading_yez73q","text_Ve4RXx"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":48,"padding_bottom":100}},"rich_text_D6jQVx":{"type":"rich-text","blocks":{"heading_k7ymUC":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_36iHEK":{"type":"text","settings":{"text":""}},"button_t3zB7f":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_k7ymUC","text_36iHEK","button_t3zB7f"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":52,"padding_bottom":52}},"image_banner_nf34bG":{"type":"image-banner","blocks":{"heading_qibWVR":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_CJCwqA":{"type":"text","settings":{"text":"","text_style":"subtitle"}},"buttons_ptBCdX":{"type":"buttons","settings":{"button_label_1":"SANDHYA COLAB","button_link_1":"shopify:\/\/products\/mumbai-meri-jaan","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_qibWVR","text_CJCwqA","buttons_ptBCdX"],"custom_css":[".banner__buttons > a,.button:after {color: white; box-shadow: none; opacity: 1;}",".button {border: 2px white solid; opacity: 1;}","@media only screen and (max-width: 768px) {#Banner-template--20653735903267__image_banner_nf34bG {height: 70vh; }}","@media only screen and (min-width: 768px) {#Banner-template--20653735903267__image_banner_nf34bG {height: 100vh; }}"],"settings":{"image":"shopify:\/\/shop_images\/a-model-in-summer-fashion-with-grey-backdrop.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"bottom-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"background-1","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text_BNcP98":{"type":"rich-text","blocks":{"heading_9JnBm9":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_eQBPHb":{"type":"text","settings":{"text":""}},"button_hmdffF":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_9JnBm9","text_eQBPHb","button_hmdffF"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":4,"padding_bottom":4}},"featured_collection":{"type":"featured-collection","custom_css":[".card__information {text-align: center;}",".card-information {text-align: center;}",".price {color: #747d80;}",".card__heading,h3,a:visited {color: #465158;}","@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}"],"settings":{"title":"","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"womens-collections","products_to_show":10,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"background-1","image_ratio":"portrait","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"1","swipe_on_mobile":true,"padding_top":8,"padding_bottom":0}},"rich_text_ejgdJ3":{"type":"rich-text","blocks":{"heading_iNzeEX":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_jE8Dj6":{"type":"text","settings":{"text":""}},"button_QMtUFi":{"type":"button","settings":{"button_label":"VIEW ALL","button_link":"shopify:\/\/pages\/shop-all","button_style_secondary":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_iNzeEX","text_jE8Dj6","button_QMtUFi"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":0,"padding_bottom":60}},"slideshow_eGbdKn":{"type":"slideshow","blocks":{"slide_FUTCLM":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/fashion-portrait.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Pendant 1","link":"shopify:\/\/products\/deathly-hallows-pendant","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_QgUYiN":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"Pendant 1","link":"shopify:\/\/products\/deathly-hallows-pendant","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["slide_FUTCLM","slide_QgUYiN"],"custom_css":["@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_eGbdKn {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}","@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_eGbdKn {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":3,"image_behavior":"none","show_text_below":false,"accessibility_info":""}},"slideshow_zfVVDc":{"type":"slideshow","blocks":{"slide_yaMqxL":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/model-laughs-barefoot.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_7T6dFd":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-kathrine-birch-12627881.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["slide_yaMqxL","slide_7T6dFd"],"custom_css":["@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_zfVVDc {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}","@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_zfVVDc {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"slideshow_NkYFhM":{"type":"slideshow","blocks":{"slide_XdgkPF":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/model-laughs-barefoot.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_NYPRDr":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-kathrine-birch-12627881.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["slide_XdgkPF","slide_NYPRDr"],"custom_css":["@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_NkYFhM {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}","@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_NkYFhM {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"slideshow_kdK3MA":{"type":"slideshow","blocks":{"slide_JWj67Y":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/fashion-portrait.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Pendant 1","link":"shopify:\/\/products\/deathly-hallows-pendant","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_tUbYha":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg","heading":"","heading_size":"h1","subheading":"","button_label":"Pendant 1","link":"shopify:\/\/products\/deathly-hallows-pendant","button_style_secondary":false,"box_align":"middle-center","show_text_box":false,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}}},"block_order":["slide_JWj67Y","slide_tUbYha"],"custom_css":["@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_kdK3MA {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}","@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_kdK3MA {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":false,"change_slides_speed":3,"image_behavior":"none","show_text_below":false,"accessibility_info":""}},"image_banner_yUHjXt":{"type":"image-banner","blocks":{"heading_Eq8PxB":{"type":"heading","settings":{"heading":"HANDCRAFTED IN BHARAT","heading_size":"h2"}},"text_ap8dgx":{"type":"text","settings":{"text":"By local people for global people.","text_style":"body"}},"buttons_AyEYYw":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_Eq8PxB","text_ap8dgx","buttons_AyEYYw"],"custom_css":[".banner__text > p {opacity: 1; color: white;}"],"settings":{"image":"shopify:\/\/shop_images\/pexels-antoni-shkraba-7167024.jpg","image_overlay_opacity":40,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text_NMYTh6":{"type":"rich-text","blocks":{"heading_tYhz4R":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_zEDedm":{"type":"text","settings":{"text":""}},"button_8gHbHn":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_tYhz4R","text_zEDedm","button_8gHbHn"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":8,"padding_bottom":8}},"image_banner_6XQNLe":{"type":"image-banner","blocks":{"heading_HaRgme":{"type":"heading","settings":{"heading":"EXPERIENCE ZUGO","heading_size":"h2"}},"text_LzJJV3":{"type":"text","settings":{"text":"Skin friendly antitarnish premium material <br> 30 day return (non-customized) <br> 30 month warranty","text_style":"body"}},"buttons_7hne3w":{"type":"buttons","settings":{"button_label_1":"","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_HaRgme","text_LzJJV3","buttons_7hne3w"],"custom_css":[".banner__text > p {opacity: 1; color: white;}"],"settings":{"image":"shopify:\/\/shop_images\/pexels-kim-stiver-842876.jpg","image_overlay_opacity":40,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-2","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text_xDMjt7":{"type":"rich-text","blocks":{"heading_kyKimK":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text_qYFgdA":{"type":"text","settings":{"text":""}},"button_pzFjEF":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_kyKimK","text_qYFgdA","button_pzFjEF"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":12,"padding_bottom":12}}},"order":["custom_liquid_cXPDdn","rich_text_8qnVpq","rich_text_hkQ4Cb","rich_text_D6jQVx","image_banner_nf34bG","rich_text_BNcP98","featured_collection","rich_text_ejgdJ3","slideshow_eGbdKn","slideshow_zfVVDc","slideshow_NkYFhM","slideshow_kdK3MA","image_banner_yUHjXt","rich_text_NMYTh6","image_banner_6XQNLe","rich_text_xDMjt7"]}
+{
+  "sections": {
+    "custom_liquid_cXPDdn": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  video {\n  width: 100%;\n  height: 92vh;\n  object-fit:cover;\n  }\n  <\/style>\n  \n  <video muted autoplay playsinline loop>\n      <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/01be9e9778584d44bafb90eacce4d650.mp4\"\n                    type=\"video\/mp4\">\n  <\/video>\n  \n  \n    \n  <h2 id=\"h2_nikhilesh\">Personalised meaningful jewellery<\/h2>\n\n  <div id=\"button_main_1\">\n  <a href=\"\/collections\/all\"><button id=\"shop_now_nikhilesh\">SHOP THE LOOK<\/button><\/a>\n  <\/div>\n\n\n  <style>\n  #button_main_1 , #h2_nikhilesh\n  {\n      padding:0px;\n      position: relative;  \n      display:block;\n      width:100%;\n      align-items: center;\n      display: flex;\n      justify-content: center;\n      color: white;\nbottom:250px;\n  }\n  \n  #button_main_1\n  {\n  bottom: 4%;\nposition:relative;\nbottom:250px;\nmargin:0px;\n  }\n  \n  #shop_now_nikhilesh\n  {\n  color:white;\n  padding:1.3vh;\n      border: 1.35px white solid;\n      background-color: transparent;\n      transition: ease;\n      transition-duration: 500ms;\n      position: relative;\n  padding-left : 4vh;\n  padding-right : 4vh;\n  font-weight : 400;\n  font-family  :Amiri, serif;\n  font-size : 1.5rem;\n  letter-spacing : 0.1rem;\n  }\n  \n  #shop_now_nikhilesh:hover\n  {\n  transform: translate(0,-5px);\n      transition: ease;\n      transition-duration: 250ms;\n  cursor: pointer;\n  }\n  <\/style>\n  \n  \n  \n  \n  <style>\n  @media only screen and (max-width: 1000px)\n  {\n  h2\n  {\n  text-align : center;\nmargin:0px;\nmargin-bottom:10px;\n  }\n  }\n  <\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_8qnVpq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_VzPEEn": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_jUAcCf": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_jNRJcm": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VzPEEn",
+        "text_jUAcCf",
+        "button_jNRJcm"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_hkQ4Cb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yez73q": {
+          "type": "heading",
+          "settings": {
+            "heading": "BEYOND JEWELLERY",
+            "heading_size": "h2"
+          }
+        },
+        "text_Ve4RXx": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Cease the moment. Tell a story.<br\/><\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yez73q",
+        "text_Ve4RXx"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    },
+    "rich_text_D6jQVx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_k7ymUC": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_36iHEK": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_t3zB7f": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_k7ymUC",
+        "text_36iHEK",
+        "button_t3zB7f"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_nf34bG": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_qibWVR": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_CJCwqA": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_ptBCdX": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SANDHYA COLAB",
+            "button_link_1": "shopify:\/\/products\/mumbai-meri-jaan",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qibWVR",
+        "text_CJCwqA",
+        "buttons_ptBCdX"
+      ],
+      "custom_css": [
+        ".banner__buttons > a,.button:after {color: white; box-shadow: none; opacity: 1;}",
+        ".button {border: 2px white solid; opacity: 1;}",
+        "@media only screen and (max-width: 768px) {#Banner-template--20699447230499__image_banner_nf34bG{height: 70vh; }}",
+        "@media only screen and (min-width: 768px) {#Banner-template--20699447230499__image_banner_nf34bG {height: 100vh; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/a-model-in-summer-fashion-with-grey-backdrop.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_BNcP98": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9JnBm9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_eQBPHb": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_hmdffF": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9JnBm9",
+        "text_eQBPHb",
+        "button_hmdffF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".card__information {text-align: center;}",
+        ".card-information {text-align: center;}",
+        ".price {color: #747d80;}",
+        ".card__heading,h3,a:visited {color: #465158;}",
+        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "womens-collections",
+        "products_to_show": 10,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_ejgdJ3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iNzeEX": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_jE8Dj6": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_QMtUFi": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIEW ALL",
+            "button_link": "shopify:\/\/pages\/shop-all",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iNzeEX",
+        "text_jE8Dj6",
+        "button_QMtUFi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "slideshow_eGbdKn": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_FUTCLM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fashion-portrait.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Pendant 1",
+            "link": "shopify:\/\/products\/deathly-hallows-pendant",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_QgUYiN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Pendant 1",
+            "link": "shopify:\/\/products\/deathly-hallows-pendant",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_FUTCLM",
+        "slide_QgUYiN"
+      ],
+      "custom_css": [
+        "@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_eGbdKn {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
+        "@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_eGbdKn {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",
+        ".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "slideshow_zfVVDc": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_yaMqxL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/model-laughs-barefoot.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_7T6dFd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-kathrine-birch-12627881.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_yaMqxL",
+        "slide_7T6dFd"
+      ],
+      "custom_css": [
+        "@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_zfVVDc {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
+        "@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_zfVVDc {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",
+        ".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_NkYFhM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_XdgkPF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/model-laughs-barefoot.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NYPRDr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-kathrine-birch-12627881.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_XdgkPF",
+        "slide_NYPRDr"
+      ],
+      "custom_css": [
+        "@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_NkYFhM {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",
+        "@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_NkYFhM {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
+        ".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "slideshow_kdK3MA": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JWj67Y": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fashion-portrait.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Pendant 1",
+            "link": "shopify:\/\/products\/deathly-hallows-pendant",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_tUbYha": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Pendant 1",
+            "link": "shopify:\/\/products\/deathly-hallows-pendant",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JWj67Y",
+        "slide_tUbYha"
+      ],
+      "custom_css": [
+        "@media (max-width: 770px) {#Slider-template--20653735903267__slideshow_kdK3MA {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",
+        "@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20653735903267__slideshow_kdK3MA {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
+        ".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "image_banner_yUHjXt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Eq8PxB": {
+          "type": "heading",
+          "settings": {
+            "heading": "HANDCRAFTED IN BHARAT",
+            "heading_size": "h2"
+          }
+        },
+        "text_ap8dgx": {
+          "type": "text",
+          "settings": {
+            "text": "By local people for global people.",
+            "text_style": "body"
+          }
+        },
+        "buttons_AyEYYw": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Eq8PxB",
+        "text_ap8dgx",
+        "buttons_AyEYYw"
+      ],
+      "custom_css": [
+        ".banner__text > p {opacity: 1; color: white;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-antoni-shkraba-7167024.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_NMYTh6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tYhz4R": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_zEDedm": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_8gHbHn": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tYhz4R",
+        "text_zEDedm",
+        "button_8gHbHn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_banner_6XQNLe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HaRgme": {
+          "type": "heading",
+          "settings": {
+            "heading": "EXPERIENCE ZUGO",
+            "heading_size": "h2"
+          }
+        },
+        "text_LzJJV3": {
+          "type": "text",
+          "settings": {
+            "text": "Skin friendly antitarnish premium material <br> 30 day return (non-customized) <br> 30 month warranty",
+            "text_style": "body"
+          }
+        },
+        "buttons_7hne3w": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HaRgme",
+        "text_LzJJV3",
+        "buttons_7hne3w"
+      ],
+      "custom_css": [
+        ".banner__text > p {opacity: 1; color: white;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-kim-stiver-842876.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_xDMjt7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kyKimK": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_qYFgdA": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_pzFjEF": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kyKimK",
+        "text_qYFgdA",
+        "button_pzFjEF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "custom_liquid_cXPDdn",
+    "rich_text_8qnVpq",
+    "rich_text_hkQ4Cb",
+    "rich_text_D6jQVx",
+    "image_banner_nf34bG",
+    "rich_text_BNcP98",
+    "featured_collection",
+    "rich_text_ejgdJ3",
+    "slideshow_eGbdKn",
+    "slideshow_zfVVDc",
+    "slideshow_NkYFhM",
+    "slideshow_kdK3MA",
+    "image_banner_yUHjXt",
+    "rich_text_NMYTh6",
+    "image_banner_6XQNLe",
+    "rich_text_xDMjt7"
+  ]
+}
