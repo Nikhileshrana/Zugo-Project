@@ -18,25 +18,9 @@ if (window.innerWidth > 600) {
   });
 }
 
+// Path: assets/nikhileshrana.js
 
-console.log("Checking i am working or not");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Get the product media item
 
 
 
