@@ -59,7 +59,7 @@
         "text_9tLJyw": {
           "type": "text",
           "settings": {
-            "text": "<h3>Frequently Asked Questions<\/h3>"
+            "text": "<h3>FREQUENTLY ASKED QUESTIONS<\/h3>"
           }
         }
       },
@@ -71,7 +71,7 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 92,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -114,8 +114,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "collapsible_content_rwAQtr": {
