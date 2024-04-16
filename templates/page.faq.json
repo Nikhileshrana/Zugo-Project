@@ -75,12 +75,74 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "collapsible_content_rwAQtr": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_9E8jJN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What makes Zugo amulets meaningful?",
+            "icon": "none",
+            "row_content": "<p>All the amulets are designed to narrate a story that is of personal significance to those who wear them.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JnTGjV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When are products shipped after placing the order?",
+            "icon": "none",
+            "row_content": "<p>For all the non-customized amulets in stock the shipping takes place in 3 days after placing the order. <br\/>For amulets with custom engraving the shipping time is 5-7 days after placing the order. <br\/>For bespoke designed amulets the shipping time is usually 10 - 15 days depending upon the nature of the art. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_tH8h8h": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What material is used for the jewellery?",
+            "icon": "none",
+            "row_content": "<p>We use high grade Stainless Steel metal which is skin friendly and antitarnish material. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6QYkf6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I cancel my order?",
+            "icon": "none",
+            "row_content": "<p>Yes. Please contact us within 24 hours of placing the order for order cancellation and full refund. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_9E8jJN",
+        "collapsible_row_JnTGjV",
+        "collapsible_row_tH8h8h",
+        "collapsible_row_6QYkf6"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "rich_text_ePFgDW",
     "slideshow_YBRr7D",
-    "rich_text_ygHn9d"
+    "rich_text_ygHn9d",
+    "collapsible_content_rwAQtr"
   ]
 }
