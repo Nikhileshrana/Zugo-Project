@@ -17,7 +17,7 @@
         "text_9tLJyw": {
           "type": "text",
           "settings": {
-            "text": "<h4>ZUGO<\/h4>"
+            "text": "<h3>Frequently Asked Questions<\/h3>"
           }
         }
       },
@@ -124,7 +124,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "FAQ",
+        "heading": "",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
