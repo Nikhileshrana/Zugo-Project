@@ -73,5 +73,5 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 document.getElementById('HeaderMenu-instagram').addEventListener('click', function(event) {
     event.preventDefault();
-    window.open('nikhileshrana.tech', '_blank');
+    window.open('nikhileshrana.tech', '_self');
 });
