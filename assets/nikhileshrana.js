@@ -69,6 +69,7 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 });
 
 
-document.getElementById("HeaderMenu-instagram").addEventListener("click", ()=>{
+document.getElementById("HeaderMenu-instagram").addEventListener("click", function(){
+    console.log("Instagram Clicked");
     window.open("https://www.instagram.com/zugo.co.in/","_blank");
 });
