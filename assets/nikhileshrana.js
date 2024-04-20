@@ -71,7 +71,13 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 
 
-document.getElementById('HeaderMenu-instagram').addEventListener('click', function(event) {
-    event.preventDefault();
-    window.open('nikhileshrana.tech', '_self');
-});
+
+
+
+var anchorTag = document.getElementById('HeaderMenu-instagram');
+
+    // Check if the anchor tag exists
+    if (anchorTag) {
+        // Update the target attribute to "_blank"
+        anchorTag.setAttribute('target', '_blank');
+    }
