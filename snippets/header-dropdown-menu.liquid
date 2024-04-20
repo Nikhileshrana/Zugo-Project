@@ -87,7 +87,12 @@
             {% if link.current %}
               aria-current="page"
             {% endif %}
-            target="_blank"
+
+
+            {% comment %} target="_blank" {% endcomment %}
+          
+          
+          
           >
             <span
               {%- if link.current %}
