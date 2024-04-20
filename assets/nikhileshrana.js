@@ -71,13 +71,15 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 
 document.addEventListener('DOMContentLoaded', function() {
- 
+    // Get the anchor tag element
     var instagramLink = document.getElementById('HeaderMenu-instagram');
-
+    
+    // Add event listener to the anchor tag
     instagramLink.addEventListener('click', function(event) {
-
+        // Prevent the default behavior of the anchor tag
         event.preventDefault();
-
+        
+        // Open the link in a new tab
         window.open(instagramLink.href, '_blank');
     });
 });
