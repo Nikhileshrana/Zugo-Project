@@ -14,7 +14,6 @@
             <details id="Details-HeaderMenu-{{ forloop.index }}" class="mega-menu">
               <summary
                 id="HeaderMenu-{{ link.handle }}"
-                target="_blank"
                 class="header__menu-item list-menu__item link focus-inset"
               >
                 <span
@@ -75,6 +74,7 @@
           <a
             id="HeaderMenu-{{ link.handle }}"
             href="{{ link.url }}"
+            target="_blank"
             class="header__menu-item list-menu__item link link--text focus-inset"
             {% if link.current %}
               aria-current="page"
