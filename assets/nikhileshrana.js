@@ -76,3 +76,4 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 let instagram_new_win = document.getElementById('HeaderMenu-instagram');
 instagram_new_win.setAttribute('target', '_blank');
+console.log("Checking if it is working");
