@@ -74,10 +74,5 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 
 
-var anchorTag = document.getElementById('HeaderMenu-instagram');
-
-    // Check if the anchor tag exists
-    if (anchorTag) {
-        // Update the target attribute to "_blank"
-        anchorTag.setAttribute('target', '_blank');
-    }
+let instagram_new_win = document.getElementById('HeaderMenu-instagram');
+instagram_new_win.setAttribute('target', '_blank');
