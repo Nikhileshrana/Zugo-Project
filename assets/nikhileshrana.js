@@ -24,6 +24,13 @@ if (window.innerWidth > 600) {
 
 
 
+
+let instagram_new_win = document.getElementById('HeaderMenu-instagram');
+instagram_new_win.setAttribute('target', '_blank');
+console.log("Checking if it is working");
+
+
+
 document.querySelector('.product__media-item').addEventListener('click', function() {
     // Get the image source
     var imgSrc = document.querySelector('.product__media > img').src;
@@ -73,7 +80,3 @@ document.querySelector('.product__media-item').addEventListener('click', functio
 
 
 
-
-// let instagram_new_win = document.getElementById('HeaderMenu-instagram');
-// instagram_new_win.setAttribute('target', '_blank');
-console.log("Checking if it is working");
