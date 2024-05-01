@@ -121,6 +121,9 @@
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
+        "custom_css": [
+          ".password-content {font-size: 2rem;}"
+        ],
         "settings": {
           "color_scheme": "background-1"
         }
