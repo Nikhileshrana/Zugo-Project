@@ -122,7 +122,8 @@
       "main-password-header": {
         "type": "main-password-header",
         "custom_css": [
-          ".password-content {font-size: 2rem;}"
+          ".password-content {font-size: 2rem; text-decoration: none;}",
+          "a {color:#465158;}"
         ],
         "settings": {
           "color_scheme": "background-1"
