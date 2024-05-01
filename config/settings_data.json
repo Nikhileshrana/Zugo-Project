@@ -127,6 +127,9 @@
       },
       "main-password-footer": {
         "type": "main-password-footer",
+        "custom_css": [
+          ".password__footer-caption {display: none;}"
+        ],
         "settings": {
           "color_scheme": "background-1"
         }
