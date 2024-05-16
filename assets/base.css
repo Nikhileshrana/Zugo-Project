@@ -3527,18 +3527,3 @@ details-disclosure > details {
 
 
 
-.slider-buttons > :nth-child(1) {
-  border: 1px red solid;
-  position: absolute;
-  right: 95%;
-  bottom: 3%;
-  height: 100%;
-}
-
-.slider-buttons > :nth-child(3) {
-  border: 1px red solid;
-  position: absolute;
-  left: 95%;
-  bottom: 3%;
-  height: 100%;
-}
