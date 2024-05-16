@@ -3541,3 +3541,11 @@ h3,
 a:visited {
   color: #465158;
 }
+@media (max-height: 350px) {
+  ul > li,
+  .card-wrapper {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+  }
+}
