@@ -222,11 +222,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__information {text-align: center;}",
-        ".card-information {text-align: center;}",
-        ".price {color: #747d80;}",
-        ".card__heading,h3,a:visited {color: #465158;}",
-        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}"
+        "@media (min-width: 1024px) {.slider-buttons > :nth-child(1) {position: absolute; right: 95%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {width: 100%; height: 10%; } .slider-buttons > :nth-child(3) {position: absolute; left: 95%; bottom: 3%; height: 100%; }}"
       ],
       "settings": {
         "title": "",
