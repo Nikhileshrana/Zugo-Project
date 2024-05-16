@@ -3523,4 +3523,23 @@ details-disclosure > details {
 
 
 
+/* Custom CSS by Nikhilesh Rana . https://Nikhileshrana.tech */
 
+.slider-buttons > :nth-child(1) {
+  border: 1px red solid;
+  position: absolute;
+  right: 95%;
+  bottom: 3%;
+  height: 100%;
+}
+.slider-buttons > button > svg {
+  height: 100%;
+  width: auto;
+}
+.slider-buttons > :nth-child(3) {
+  border: 1px red solid;
+  position: absolute;
+  left: 95%;
+  bottom: 3%;
+  height: 100%;
+}
