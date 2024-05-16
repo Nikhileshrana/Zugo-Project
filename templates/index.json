@@ -222,7 +222,6 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        "@media (min-width: 1024px) {.slider-buttons > :nth-child(1) {position: absolute; right: 95%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {width: 100%; height: 10%; } .slider-buttons > :nth-child(3) {position: absolute; left: 95%; bottom: 3%; height: 100%; }}",
         ".card__information {text-align: center;}",
         ".card-information {text-align: center;}",
         ".price {color: #747d80;}",
@@ -236,7 +235,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "womens-collections",
-        "products_to_show": 10,
+        "products_to_show": 15,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
