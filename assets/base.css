@@ -3535,7 +3535,6 @@ details-disclosure > details {
 
 .slider-buttons > button > svg {
   height: 100%;
-  width: auto;
   border: 3px red solid;
 }
 
