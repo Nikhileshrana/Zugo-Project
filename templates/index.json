@@ -227,7 +227,8 @@
         ".price {color: #747d80;}",
         ".card__heading,h3,a:visited {color: #465158;}",
         "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}",
-        ".slider-buttons >:nth-child(1) {border: 1px red solid; position:absolute; right:95%; bottom:48%; }"
+        ".slider-buttons > :nth-child(1) {border: 1px red solid; position: absolute; right: 95%; bottom: 3%; height: 100%;}",
+        ".slider-buttons > :nth-child(1) > svg {height: 100%; width:auto;}"
       ],
       "settings": {
         "title": "",
