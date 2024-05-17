@@ -20,6 +20,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -52,11 +57,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -68,17 +68,17 @@
         "vendor",
         "title",
         "price",
+        "description",
         "variant_picker",
         "text_r6KBjD",
         "custom_liquid_UeBCAR",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "custom_css": [
         ".slider-button > svg {height: 100%; width: 100%;}",
-        ".thumbnail-list {opacity:0.5;}"
+        ".thumbnail-list {opacity: 0.5;}"
       ],
       "settings": {
         "enable_sticky_info": true,
