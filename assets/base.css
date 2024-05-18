@@ -3535,9 +3535,8 @@ details-disclosure > details {
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 { 
-  height: 50%;
+  height: 10%;
   width: auto;
-  border: 2px red solid;
 }
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
