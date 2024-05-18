@@ -222,7 +222,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".slider-buttons>button>svg{height:auto; width:2vw;}"
+        ".slider-buttons > button > svg {height: auto; width: 2vw;}",
+        ".card__information {text-align: center;}",
+        ".card-information {text-align: center;}",
+        ".price {color: #747d80;}",
+        ".card__heading,h3,a:visited {color: #465158;}",
+        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}"
       ],
       "settings": {
         "title": "",
