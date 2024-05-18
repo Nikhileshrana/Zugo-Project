@@ -3533,6 +3533,11 @@ details-disclosure > details {
     height: 100%;
 }
 
+.section-template--20699447230499__featured_collection-padding>slider-component>div>button
+{
+  border: 2px red solid;
+}
+
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 { 
   height: 10%;
