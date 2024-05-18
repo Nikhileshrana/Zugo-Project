@@ -3525,7 +3525,7 @@ details-disclosure > details {
 
 /* Custom CSS by Nikhilesh Rana . https://Nikhileshrana.tech */
 
-.section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
+/* .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
 {
   border:3px red solid;
   position: absolute;
@@ -3548,7 +3548,14 @@ border:3px green solid;
 left: 95vw;
 bottom: 3%;
 height: 100%;
-}
+} */
+
+
+
+
+
+
+
 
 
 /* @media (min-width: 1025px) {
