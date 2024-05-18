@@ -3560,11 +3560,10 @@ a:visited {
     height: 100%;
 }
 
-/* .section-template--20699447230499__featured_collection-padding>slider-component>div>button
+.section-template--20699447230499__featured_collection-padding>slider-component>div>button
 {
-  height: auto;
-  width: 2vw;
-} */
+  padding: 1vw;
+}
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 {
