@@ -3525,4 +3525,7 @@ details-disclosure > details {
 
 /* Custom CSS by Nikhilesh Rana . https://Nikhileshrana.tech */
 
-
+.section-template--20699447230499__featured_collection-padding
+{
+  border:3px red solid;
+}
