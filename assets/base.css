@@ -3528,7 +3528,7 @@ details-disclosure > details {
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
 {
   position: absolute;
-    right: 95vw;
+    right: 100%;
     bottom: 3%;
     height: 100%;
 }
