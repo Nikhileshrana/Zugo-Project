@@ -3528,7 +3528,7 @@ details-disclosure > details {
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
 {
   position: absolute;
-    right: 90vw;
+    right: 95vw;
     bottom: 3%;
     height: 100%;
 }
@@ -3547,7 +3547,7 @@ details-disclosure > details {
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
 {
 position: absolute;
-left: 90vw;
+left: 95vw;
 bottom: 3%;
 height: 100%;
 }
