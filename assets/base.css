@@ -3531,6 +3531,7 @@ details-disclosure > details {
     right: 95vw;
     bottom: 3%;
     height: 100%;
+    border: 2px red solid;
 }
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button
@@ -3544,13 +3545,13 @@ details-disclosure > details {
   width: 100%;
 }
 
-.section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
+/* .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
 {
 position: absolute;
 left: 95vw;
 bottom: 3%;
 height: 100%;
-}
+} */
 
 
 
