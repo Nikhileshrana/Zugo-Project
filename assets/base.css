@@ -3539,11 +3539,11 @@ details-disclosure > details {
   border: 2px red solid;
 }
 
-/* .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
+.section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 { 
-  height: 10%;
-  width: 100%;
-} */
+ width: 40px;
+ 
+}
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
 {
