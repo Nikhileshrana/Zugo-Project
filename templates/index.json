@@ -222,9 +222,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".section-template--20699447230499__featured_collection-padding > slider-component > div > :nth-child(1) {position: absolute; right: 80%; bottom: 3%; height: 100%;}",
-        ".section-template--20699447230499__featured_collection-padding > slider-component > div > button > svg {height: 2rem; width: 2rem; border: 5px blue solid;}",
-        ".section-template--20699447230499__featured_collection-padding > slider-component > div > :nth-child(3) {position: absolute; left: 90%; bottom: 3%; height: 100%;}"
+
       ],
       "settings": {
         "title": "",
