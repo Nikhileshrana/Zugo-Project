@@ -222,11 +222,9 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__information {text-align: center;}",
-        ".card-information {text-align: center;}",
-        ".price {color: #747d80;}",
-        ".card__heading,h3,a:visited {color: #465158;}",
-        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}"
+        ".section-template--20699447230499__featured_collection-padding > slider-component > div > :nth-child(1) {position: absolute; right: 80%; bottom: 3%; height: 100%;}",
+        ".section-template--20699447230499__featured_collection-padding > slider-component > div > button > svg {height: 2rem; width: 2rem; border: 5px blue solid;}",
+        ".section-template--20699447230499__featured_collection-padding > slider-component > div > :nth-child(3) {position: absolute; left: 90%; bottom: 3%; height: 100%;}"
       ],
       "settings": {
         "title": "",
