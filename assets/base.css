@@ -3536,8 +3536,8 @@ details-disclosure > details {
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 { 
-  height: 100%;
-  width: auto;
+  height: 30px;
+  width: 30px;
   border:5px blue solid;
 }
 
