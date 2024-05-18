@@ -3529,7 +3529,7 @@ details-disclosure > details {
 {
   border:3px red solid;
   position: absolute;
-    right: 90vw;
+    right: 95vw;
     bottom: 3%;
     height: 100%;
 }
@@ -3545,7 +3545,7 @@ details-disclosure > details {
 {
 position: absolute;
 border:3px green solid;
-left: 90vw;
+left: 95vw;
 bottom: 3%;
 height: 100%;
 }
