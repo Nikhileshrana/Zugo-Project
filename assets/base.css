@@ -3542,6 +3542,11 @@ a:visited {
   color: #465158;
 }
 
+.card-information>.price
+{
+  text-align: center;
+}
+
 
 
 
