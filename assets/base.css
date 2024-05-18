@@ -3525,6 +3525,28 @@ details-disclosure > details {
 
 /* Custom CSS by Nikhilesh Rana . https://Nikhileshrana.tech */
 
+
+
+.card__information {
+  text-align: center;
+}
+.card-information {
+  text-align: center;
+}
+.price {
+  color: #747d80;
+}
+.card__heading,
+h3,
+a:visited {
+  color: #465158;
+}
+
+
+
+
+
+
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
 {
   position: absolute;
