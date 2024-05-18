@@ -3535,7 +3535,15 @@ details-disclosure > details {
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button
 {
-  width: auto;
+  height: auto;
+  width: 2vw;
+}
+
+.section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
+{
+  height: auto;
+  width: 10px;
+  border: 2px blue solid;
 }
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
@@ -3549,8 +3557,11 @@ height: 100%;
 
 
 
-
-
+@media (max-width: 425) {
+  .slider-buttons > button {
+    border: 2px red solid;
+  }
+}
 
 
 
