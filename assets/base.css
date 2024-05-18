@@ -3569,8 +3569,7 @@ a:visited {
 .section-template--20699447230499__featured_collection-padding>slider-component>div>button>svg
 {
   height: auto;
-  width: 10px;
-  border: 2px blue solid;
+  width: 2vw;
 }
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
