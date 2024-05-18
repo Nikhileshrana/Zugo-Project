@@ -222,7 +222,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-
+        ".slider-buttons>button>svg{height:auto; width:2vw;}"
       ],
       "settings": {
         "title": "",
