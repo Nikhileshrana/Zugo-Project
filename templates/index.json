@@ -164,7 +164,7 @@
         "@media only screen and (min-width: 768px) {#Banner-template--20699447230499__image_banner_nf34bG {height: 100vh; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/a-model-in-summer-fashion-with-grey-backdrop.jpg",
+        "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_3.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-left",
@@ -223,7 +223,7 @@
       "type": "featured-collection",
       "custom_css": [
         "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}",
-        " .slider-buttons > button > svg {height: 3%; width: 100%; }",
+        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
         "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {height: 3%; width: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
       ],
       "settings": {
