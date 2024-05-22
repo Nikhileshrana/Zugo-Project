@@ -3553,17 +3553,23 @@ a:visited {
 
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1)
+,
+collection section-template--20699447361571__featured_collection_aaGVaJ-padding>slider-component>div>:nth-child(1)
 {
   position: absolute;
-    right: 95vw;
+    left: 95vw;
     bottom: 3%;
     height: 100%;
 }
 
+
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
+,
+collection section-template--20699447361571__featured_collection_aaGVaJ-padding>slider-component>div>:nth-child(3)
 {
 position: absolute;
 left: 95vw;
 bottom: 3%;
 height: 100%;
 }
+
