@@ -3561,7 +3561,7 @@ a:visited {
 .section-template--20699447361571__featured_collection_Nx6C4k-padding>slider-component>div>:nth-child(1)
 {
   position: absolute;
-    left: 95vw;
+    right: 95vw;
     bottom: 3%;
     height: 100%;
 }
@@ -3575,7 +3575,7 @@ a:visited {
 .section-template--20699447361571__featured_collection_Nx6C4k-padding>slider-component>div>:nth-child(3)
 {
 position: absolute;
-right: 95vw;
+left: 95vw;
 bottom: 3%;
 height: 100%;
 }
