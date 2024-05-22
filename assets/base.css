@@ -3563,6 +3563,11 @@ collection section-template--20699447361571__featured_collection_aaGVaJ-padding>
 }
 
 
+.slider-mobile-gutter
+{
+  border: 3px red solid;
+}
+
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(3)
 ,
 collection section-template--20699447361571__featured_collection_aaGVaJ-padding>slider-component>div>:nth-child(3)
