@@ -188,7 +188,7 @@
         "heading_JRDYyF": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -202,10 +202,10 @@
         "buttons_6ntDN6": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -217,6 +217,7 @@
         "buttons_6ntDN6"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/model-in-sunglasses-and-summer-clothes.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
