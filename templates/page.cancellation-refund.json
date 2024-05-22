@@ -1,0 +1,152 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        ".h0 {display: none;}"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_ePFgDW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9tLJyw": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Cancellation & Refund Policy<\/h4>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9tLJyw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 92,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_YBRr7D": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_ygHn9d": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_3QVXkW": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_74AkLT": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_3QVXkW",
+        "text_74AkLT"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_Vehcr3": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Q7LEng": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Order Cancellation<\/h5><p>We want to ensure your complete satisfaction with your purchase. If you wish to cancel your order, please contact us within 24 hours of placing the order. Once the order has been shipped, we are unable to accommodate cancellations.<\/p><p>.<\/p><p>To initiate a return, kindly contact us via our contact form and mention 'PRODUCT CANCELLATION ORDER NUMBER XXXX' in the comments section. If you have ordered multiple products and intend to return some items, kindly specify your request in the comments. Upon cancellation of your order, you will receive an email confirmation, and the refunded amount will be credited back to your original method of payment. Kindly allow up to 15 business days for the refund to reflect in your account.<\/p><p>.<\/p><p>At Zugo, we are committed to enhancing both our product quality and customer experience. Your feedback regarding order cancellations is invaluable to us as it enables us to refine our products and services accordingly. We sincerely appreciate your input in helping us improve.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Q7LEng"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_j6De4F": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jM74Ln": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_xkByLC": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Product Returns & Refunds<\/h5><p>We aim to ensure that you have ample time to truly appreciate your Zugo jewelry! Our Zugo Promise grants you a 30-day window to return all non-personalized and non-customized Zugo items if you're not entirely satisfied with your purchase. Please note that personalization or customization, which includes any added text or designs during purchase, renders the item ineligible for return.<\/p><p>.<\/p><p>Customization or personalization involves significant labor to create a truly unique jewelry piece that has never existed before. All sales of personalized or customized Zugo items are considered final and cannot be returned.<\/p><p>.<\/p><p>To initiate a return, kindly contact us via our contact form and mention 'PRODUCT RETURN ORDER NUMBER XXXX' in the comments section. We will provide you with further instructions to facilitate the return process. Please be aware that shipping costs to our manufacturing facility will be the responsibility of the customer and we are unable to include the shipping cost incurred to the customer to be included in the refund amount.<\/p><p>.<\/p><p>For a full refund, the returned product must be unworn, with original brand tags, and in the exact packaging as received, including all documentation and additional packaging materials. We are unable to provide a refund in case the returned product does not match as decribed above. Upon receiving the product as described above, the refund amout will be credited to the original payment method and would appear in customer's account in about 15 business days from the date of receipt of the product at our facility. The refund amount will be equal to the price paid by the customer for the product or products with the offers existing at the time of the sale. <\/p>"
+          }
+        },
+        "button_GxmJiN": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Form",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jM74Ln",
+        "text_xkByLC",
+        "button_GxmJiN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_ePFgDW",
+    "slideshow_YBRr7D",
+    "rich_text_ygHn9d",
+    "rich_text_Vehcr3",
+    "rich_text_j6De4F"
+  ]
+}

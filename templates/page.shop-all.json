@@ -153,10 +153,8 @@
     "featured_collection_Nx6C4k": {
       "type": "featured-collection",
       "custom_css": [
-        ".price {color: #747d80;}",
-        ".card__heading,a:visited {color: #465158;}",
-        ".card__information {text-align: center;}",
-        ".card-information {text-align: center;}"
+        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {height: 3%; width: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
       ],
       "settings": {
         "title": "",
@@ -235,12 +233,9 @@
     "featured_collection_3azrTj": {
       "type": "featured-collection",
       "custom_css": [
-        ".card__information {text-align: center;}",
-        ".card-information {text-align: center;}",
-        ".price {color: #747d80;}",
-        ".card__heading,h3,a:visited {color: #465158;}",
         "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}",
-        "@media (min-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 95%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {height: 10%; width: auto; } .slider-buttons > :nth-child(3) {position: absolute; left: 95%; bottom: 3%; height: 100%; }}"
+        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {height: 3%; width: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
       ],
       "settings": {
         "title": "",
@@ -325,6 +320,10 @@
     },
     "featured_collection_aaGVaJ": {
       "type": "featured-collection",
+      "custom_css": [
+        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > button > svg {height: 3%; width: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
