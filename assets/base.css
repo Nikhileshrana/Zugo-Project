@@ -3582,7 +3582,7 @@ height: 100%;
 
 
 
-/* Photo of the Man Smiling  in the Home Page*/
+/* Photo of the Man Smiling and woman  in the Home Page*/
 
 @media only screen and (max-width: 768px) {
   #Banner-template--20699447230499__image_banner_nf34bG {
@@ -3594,6 +3594,14 @@ height: 100%;
     width: 100%;
     object-position: right;
   }
+
+  #Slider-template--20699447230499__slideshow_eGbdKn>div>img{
+    object-fit: cover;
+    width: 100%;
+    object-position: left;
+  }
+
+
 }
 @media only screen and (min-width: 768px) {
   #Banner-template--20699447230499__image_banner_nf34bG {
@@ -3602,3 +3610,5 @@ height: 100%;
 }
 
 /* It ends here */
+
+
