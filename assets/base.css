@@ -3615,7 +3615,7 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
-left: 95vw;
+left: 90vw;
 bottom: 3%;
 height: 100%;
 border: 2px red solid;
@@ -3624,7 +3624,7 @@ border: 2px red solid;
 #shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(1)
 {
   position: absolute;
-  right: 95vw;
+  right: 90vw;
   bottom: 3%;
   height: 100%;
   border: 2px red solid;
