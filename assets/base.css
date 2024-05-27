@@ -3573,8 +3573,6 @@ a:visited {
 .section-template--20699447361571__featured_collection_3azrTj-padding>slider-component>div>:nth-child(3)
 ,
 .section-template--20699447361571__featured_collection_Nx6C4k-padding>slider-component>div>:nth-child(3)
-,
-#shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
 left: 95vw;
@@ -3614,3 +3612,20 @@ height: 100%;
 /* It ends here */
 
 
+#shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(3)
+{
+position: absolute;
+left: 95vw;
+bottom: 3%;
+height: 100%;
+border: 2px red solid;
+}
+
+#shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(1)
+{
+  position: absolute;
+  right: 95vw;
+  bottom: 3%;
+  height: 100%;
+  border: 2px red solid;
+  }
