@@ -159,9 +159,7 @@
       ],
       "custom_css": [
         ".banner__buttons > a,.button:after {color: white; box-shadow: none; opacity: 1;}",
-        ".button {border: 2px white solid; opacity: 1;}",
-        "@media only screen and (max-width: 768px) {#Banner-template--20699447230499__image_banner_nf34bG {height: 70vh; }}",
-        "@media only screen and (min-width: 768px) {#Banner-template--20699447230499__image_banner_nf34bG {height: 100vh; }}"
+        ".button {border: 2px white solid; opacity: 1;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_13.jpg",
