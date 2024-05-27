@@ -3579,3 +3579,26 @@ left: 95vw;
 bottom: 3%;
 height: 100%;
 }
+
+
+
+/* Photo of the Man Smiling  in the Home Page*/
+
+@media only screen and (max-width: 768px) {
+  #Banner-template--20699447230499__image_banner_nf34bG {
+    height: 70vh;
+  }
+
+  #Banner-template--20699447230499__image_banner_nf34bG > div > img {
+    object-fit: cover;
+    width: 100%;
+    object-position: right;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #Banner-template--20699447230499__image_banner_nf34bG {
+    height: 100vh;
+  }
+}
+
+/* It ends here */
