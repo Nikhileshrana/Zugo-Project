@@ -218,6 +218,61 @@
         "padding_bottom": 4
       }
     },
+    "slideshow_FFNdyc": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_dF3KiL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_13.jpg",
+            "heading": "Crown of Success",
+            "heading_size": "h2",
+            "subheading": "This is what is takes...",
+            "button_label": "SIDDHARTH COLLAB",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4ViNPA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Crown_of_Success_creative_shoot.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "VIEW PRODUCT",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_dF3KiL",
+        "slide_4ViNPA"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
@@ -727,6 +782,7 @@
     "rich_text_D6jQVx",
     "image_banner_nf34bG",
     "rich_text_BNcP98",
+    "slideshow_FFNdyc",
     "featured_collection",
     "rich_text_ejgdJ3",
     "slideshow_eGbdKn",
