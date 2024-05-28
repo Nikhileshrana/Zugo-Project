@@ -3664,14 +3664,13 @@ height: 100%;
 
 .slideshow__controls>button
 {
-  border: 2px red solid;
   width: auto;
 }
 
 .slideshow__controls>button>svg
 {
-  width: 5px;
-  height:20px;
+  width: 2vw;
+  height:100%;
   color: white;
 }
 
