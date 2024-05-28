@@ -3665,11 +3665,12 @@ height: 100%;
 .slideshow__controls>button
 {
   border: 2px red solid;
+  width: auto;
 }
 
 .slideshow__controls>button>svg
 {
-  width: auto;
+  width: 5px;
   height:20px;
   color: white;
 }
