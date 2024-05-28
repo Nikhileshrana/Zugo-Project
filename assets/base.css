@@ -3649,7 +3649,7 @@ height: 100%;
 
 #shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(1)
 ,
-#shopify-section-template--20699447230499__slideshow_zfVVDcslideshow-component>div>:nth-child(1)
+#shopify-section-template--20699447230499__slideshow_zfVVDc>slideshow-component>div>:nth-child(1)
 ,
 #shopify-section-template--20699447230499__slideshow_NkYFhM>slideshow-component>div>:nth-child(1)
 ,
@@ -3665,6 +3665,8 @@ height: 100%;
 .slideshow__controls>button>svg
 {
   border: 2px red solid;
+  height: 100%;
+  width: auto;
 }
 
 }
