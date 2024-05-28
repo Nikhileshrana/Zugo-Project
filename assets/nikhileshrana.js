@@ -32,6 +32,9 @@ let instagram_new_win = document.getElementById('HeaderMenu-instagram');
 instagram_new_win.setAttribute('target', '_blank');
 
 
+function goBack_zugo() {window.history.back();}
+
+
 
 
 
