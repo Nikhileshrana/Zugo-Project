@@ -3602,14 +3602,9 @@ height: 100%;
   }
 
   #Slide-template--20699447230499__slideshow_zfVVDc-1>div>img{
-    /* object-fit: cover;
+    object-fit: cover;
     width: 100%;
-    object-position: right; */
-
-    width: auto; /* Maintains the aspect ratio */
-    height: 100%; /* Ensures the image covers the height of the container */
-    position: relative; 
-    left: -70vw; 
+    object-position:50% right;
   }
 
   #Slide-template--20699447230499__slideshow_NkYFhM-1>div>img{
