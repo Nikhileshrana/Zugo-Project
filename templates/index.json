@@ -123,59 +123,6 @@
         "padding_bottom": 52
       }
     },
-    "image_banner_nf34bG": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_qibWVR": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_CJCwqA": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "subtitle"
-          }
-        },
-        "buttons_ptBCdX": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SIDDHARTHA COLLAB",
-            "button_link_1": "shopify:\/\/products\/crown-of-success",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_qibWVR",
-        "text_CJCwqA",
-        "buttons_ptBCdX"
-      ],
-      "custom_css": [
-        ".banner__buttons > a,.button:after {color: white; box-shadow: none; opacity: 1;}",
-        ".button {border: 2px white solid; opacity: 1;}",
-        "@media only screen and (max-width: 768px) {.banner__buttons > a, .button:after {color: #d3d3d3; } .button {position: relative; top: 20vh; border: 2px #d3d3d3 solid; }}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_13.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "rich_text_BNcP98": {
       "type": "rich-text",
       "blocks": {
@@ -229,7 +176,7 @@
             "heading_size": "h2",
             "subheading": "",
             "button_label": "SIDDHARTH COLLAB",
-            "link": "",
+            "link": "shopify:\/\/products\/crown-of-success",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -780,7 +727,6 @@
     "rich_text_8qnVpq",
     "rich_text_hkQ4Cb",
     "rich_text_D6jQVx",
-    "image_banner_nf34bG",
     "rich_text_BNcP98",
     "slideshow_FFNdyc",
     "featured_collection",
