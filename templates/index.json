@@ -308,7 +308,7 @@
             "heading": "Nector of Life",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "VIEW PRODUCT",
+            "button_label": "VIEW",
             "link": "shopify:\/\/products\/beginnings-small",
             "button_style_secondary": true,
             "box_align": "bottom-right",
@@ -362,12 +362,12 @@
             "image": "shopify:\/\/shop_images\/Storm_Within_on_m_model.jpg",
             "heading": "Storm Within",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "VIEW",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -377,14 +377,15 @@
         "slide_hcET3H": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Strom_With_in_Creative_Shoot.jpg",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "VIEW",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -399,71 +400,11 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "slideshow_zfVVDc": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_yaMqxL": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Storm_Within_on_m_model.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_7T6dFd": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Strom_With_in_Creative_Shoot.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_yaMqxL",
-        "slide_7T6dFd"
-      ],
-      "custom_css": [
-        "@media (min-width: 771px) {#Slider-template--20699447230499__slideshow_zfVVDc {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
-        "@media (max-width: 770px) {#Slider-template--20699447230499__slideshow_zfVVDc {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; } .slider-buttons > button > svg {height: 3%; width: 100%; color: white; }}",
-        ".banner__box,.banner__content {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
-        "show_text_below": false,
+        "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
     },
@@ -473,14 +414,15 @@
         "slide_eXijAQ": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Couple_with_each_other_77a3924e-4319-438e-8cf1-527f50cb7714.jpg",
+            "heading": ".",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "VIEW",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -490,14 +432,15 @@
         "slide_BAww7t": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Dual_Pendant_Creative_Shoot.jpg",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "subheading": "",
+            "button_label": "VIEW",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -511,8 +454,8 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
+        "slide_height": "small",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
@@ -526,14 +469,15 @@
         "slide_8qrnxW": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Vibes_Custom_amulet_1.jpg",
+            "heading": "Reach out for custom projects",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "subheading": "",
+            "button_label": "CONTACT US",
+            "link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -564,133 +508,13 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
+        "slide_height": "small",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "slideshow_NkYFhM": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_XdgkPF": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Couple_with_each_other_77a3924e-4319-438e-8cf1-527f50cb7714.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_NYPRDr": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dual_Pendant_Creative_Shoot.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_XdgkPF",
-        "slide_NYPRDr"
-      ],
-      "custom_css": [
-        "@media (min-width: 771px) {#Slider-template--20699447230499__slideshow_NkYFhM {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
-        "@media (max-width: 770px) {#Slider-template--20699447230499__slideshow_NkYFhM {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; } .slider-buttons > button > svg {height: 3%; width: 100%; color: white; }}",
-        ".banner__box,.banner__content {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "slideshow_kdK3MA": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_JWj67Y": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Vibes_Custom_amulet_1.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "Pendant 1",
-            "link": "shopify:\/\/products\/deathly-hallows-pendant",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_tUbYha": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Pendant 1",
-            "link": "shopify:\/\/products\/deathly-hallows-pendant",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_JWj67Y",
-        "slide_tUbYha"
-      ],
-      "custom_css": [
-        "@media (min-width: 771px) {#Slider-template--20699447230499__slideshow_kdK3MA {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
-        "@media (max-width: 770px) {#Slider-template--20699447230499__slideshow_kdK3MA {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; } .slider-buttons > button > svg {height: 3%; width: 100%; color: white; }}",
-        ".banner__buttons,.banner__box,.banner__content,.banner__buttons > a {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": false,
-        "change_slides_speed": 3,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": ""
       }
     },
     "image_banner_yUHjXt": {
@@ -891,11 +715,8 @@
     "rich_text_ejgdJ3",
     "slideshow_Nfcit8",
     "slideshow_yTTiMx",
-    "slideshow_zfVVDc",
     "slideshow_z8kNHx",
     "slideshow_FLrXJV",
-    "slideshow_NkYFhM",
-    "slideshow_kdK3MA",
     "image_banner_yUHjXt",
     "rich_text_NMYTh6",
     "image_banner_6XQNLe",
