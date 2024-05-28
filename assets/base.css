@@ -3664,6 +3664,7 @@ height: 100%;
 .slideshow__controls>button
 {
   border: 1px solid white;
+  padding: 0px;
 }
 
 
