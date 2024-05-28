@@ -3670,9 +3670,9 @@ height: 100%;
 .slideshow__controls>button>svg
 {
   color: white;
-  border: 1px greenyellow solid;
+  border: 1px rgb(255, 0, 179) solid;
   width: 60px;
-  height: 100%;
+  height: auto;
 }
 
 
