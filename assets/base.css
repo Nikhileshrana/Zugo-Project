@@ -3664,8 +3664,9 @@ height: 100%;
 
 slideshow-component>div>button>svg
 {
-  border: 1px red solid;
+  border: 1px green solid;
   width: 50px;
+  height: 100px;
 }
 
 }
