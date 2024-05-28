@@ -364,7 +364,8 @@
         "slide_8GiEeP": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/Nector_of_life_on_f_model_2.jpg",
+            "heading": "Nector of Life",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
