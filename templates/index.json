@@ -398,7 +398,7 @@
         "slide_7T6dFd"
       ],
       "custom_css": [
-        "@media (min-width: 771px) {.slider-mobile-gutter {height: auto; min-height: 92vh; width: 100%; overflow: hidden; } #Slider-template--20699447230499__slideshow_zfVVDc {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
+        "@media (min-width: 771px) {#Slider-template--20699447230499__slideshow_zfVVDc {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}",
         "@media (max-width: 770px) {#Slider-template--20699447230499__slideshow_zfVVDc {height: 60vh; } .slider-mobile-gutter {height: 100%; width: auto; }}",
         ".banner__box,.banner__content {height: auto; width: auto; max-width: 100vw; padding: 0px; opacity: 0;}"
       ],
