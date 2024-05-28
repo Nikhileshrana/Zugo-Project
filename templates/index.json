@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_13.jpg",
             "heading": "This is what it takes...",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "SIDDHARTH COLLAB",
             "link": "shopify:\/\/products\/crown-of-success",
@@ -298,10 +298,10 @@
         "padding_bottom": 60
       }
     },
-    "slideshow_Nfcit8": {
+    "slideshow_XNWwhL": {
       "type": "slideshow",
       "blocks": {
-        "slide_8GiEeP": {
+        "slide_ydyxqq": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Nector_of_life_on_f_model_2.jpg",
@@ -319,7 +319,7 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_xHYmC4": {
+        "slide_WNgdkc": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Nector_of_Life_creative_shoot.jpg",
@@ -339,8 +339,8 @@
         }
       },
       "block_order": [
-        "slide_8GiEeP",
-        "slide_xHYmC4"
+        "slide_ydyxqq",
+        "slide_WNgdkc"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -713,7 +713,7 @@
     "slideshow_FFNdyc",
     "featured_collection",
     "rich_text_ejgdJ3",
-    "slideshow_Nfcit8",
+    "slideshow_XNWwhL",
     "slideshow_yTTiMx",
     "slideshow_z8kNHx",
     "slideshow_FLrXJV",
