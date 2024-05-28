@@ -524,6 +524,59 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "slideshow_z8kNHx": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_eXijAQ": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_BAww7t": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_eXijAQ",
+        "slide_BAww7t"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "slideshow_NkYFhM": {
       "type": "slideshow",
       "blocks": {
@@ -844,6 +897,7 @@
     "slideshow_Nfcit8",
     "slideshow_yTTiMx",
     "slideshow_zfVVDc",
+    "slideshow_z8kNHx",
     "slideshow_NkYFhM",
     "slideshow_kdK3MA",
     "image_banner_yUHjXt",
