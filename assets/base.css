@@ -3620,7 +3620,13 @@ height: 100%;
 @media only screen and (max-width: 768px)
 {
 
-  #shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(3)
+#shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(3)
+,
+#shopify-section-template--20699447230499__slideshow_zfVVDc>slideshow-component>div>:nth-child(3)
+,
+#shopify-section-template--20699447230499__slideshow_NkYFhM>slideshow-component>div>:nth-child(3)
+,
+#shopify-section-template--20699447230499__slideshow_kdK3MA>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
 left: 89vw;
@@ -3629,6 +3635,12 @@ height: 100%;
 }
 
 #shopify-section-template--20699447230499__slideshow_eGbdKn>slideshow-component>div>:nth-child(1)
+,
+#shopify-section-template--20699447230499__slideshow_zfVVDcslideshow-component>div>:nth-child(1)
+,
+#shopify-section-template--20699447230499__slideshow_NkYFhM>slideshow-component>div>:nth-child(1)
+,
+#shopify-section-template--20699447230499__slideshow_kdK3MA>slideshow-component>div>:nth-child(1)
 {
   position: absolute;
   right: 89vw;
