@@ -3662,11 +3662,4 @@ height: 100%;
 }
 
 
-slideshow-component>div>button>svg
-{
-  position: absolute;
-  width: 50px;
-  height: 100%;
-}
-
 }
