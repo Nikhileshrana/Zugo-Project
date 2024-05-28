@@ -3662,4 +3662,32 @@ height: 100%;
 }
 
 
+
+
+
+
+
+
+
+#Slider-template--20699447230499__slideshow_eGbdKn {
+  height: 60vh;
+}
+
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px)
+{
+  #Slider-template--20699447230499__slideshow_eGbdKn {
+    object-fit: cover;
+    height: auto;
+    min-height: 92vh;
+    width: 100%;
+    overflow: hidden;
+  }
 }
