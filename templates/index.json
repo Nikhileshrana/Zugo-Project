@@ -319,13 +319,13 @@
         "slide_QgUYiN": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pexels-leeloo-the-first-4544726.jpg",
+            "image": "shopify:\/\/shop_images\/Nector_of_Life_creative_shoot.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Pendant 1",
+            "button_label": "VIEW",
             "link": "shopify:\/\/products\/deathly-hallows-pendant",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
