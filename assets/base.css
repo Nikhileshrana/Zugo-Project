@@ -3671,6 +3671,8 @@ height: 100%;
 {
   color: white;
   border: 1px red solid;
+  width: auto;
+  height: 20%;
 }
 
 
