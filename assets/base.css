@@ -3585,11 +3585,11 @@ height: 100%;
 /* Centering the Home Page Photos in mobile view */
 
 @media only screen and (max-width: 768px) {
-  #Banner-template--20699447230499__image_banner_nf34bG {
+  #Banner-template--20699447230499__image_banner_nf34bG{
     height: 70vh;
   }
 
-  #Banner-template--20699447230499__image_banner_nf34bG>div>img {
+  #Banner-template--20699447230499__image_banner_nf34bG>div>img{
     object-fit: cover;
     width: 100%;
     object-position: right;
@@ -3604,13 +3604,13 @@ height: 100%;
   #Slide-template--20699447230499__slideshow_zfVVDc-1>div>img{
     object-fit: cover;
     width: 100%;
-    object-position:right;
+    object-position:30% center;
   }
 
   #Slide-template--20699447230499__slideshow_NkYFhM-1>div>img{
     object-fit: cover;
     width: 100%;
-    object-position: left;
+    object-position:30% center;
   }
 
 
