@@ -89,24 +89,24 @@
         "padding_bottom": 32
       }
     },
-    "image_banner_W73U6t": {
+    "image_banner_JnCCfH": {
       "type": "image-banner",
       "blocks": {
-        "heading_XxTfxR": {
+        "heading_3Q4xct": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Core Collection",
             "heading_size": "h1"
           }
         },
-        "text_LbpQWr": {
+        "text_Rghacn": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "body"
+            "text": "The core of you.",
+            "text_style": "subtitle"
           }
         },
-        "buttons_WYF4yR": {
+        "buttons_UbRtTT": {
           "type": "buttons",
           "settings": {
             "button_label_1": "",
@@ -119,63 +119,16 @@
         }
       },
       "block_order": [
-        "heading_XxTfxR",
-        "text_LbpQWr",
-        "buttons_WYF4yR"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Complete_the_look_couple.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "image_banner_JnCCfH": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_3Q4xct": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_Rghacn": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_UbRtTT": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
         "heading_3Q4xct",
         "text_Rghacn",
         "buttons_UbRtTT"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Complete_the_look_couple.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
@@ -283,24 +236,24 @@
         "heading_CLbGCA": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Custom Collection",
             "heading_size": "h1"
           }
         },
         "text_iLPB4C": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "For the one you know...",
+            "text_style": "subtitle"
           }
         },
         "buttons_YdTinG": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -312,10 +265,11 @@
         "buttons_YdTinG"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Couple_having_fun.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "desktop_content_position": "bottom-right",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
@@ -687,7 +641,6 @@
     "main",
     "rich_text_ePFgDW",
     "rich_text_XP4xLF",
-    "image_banner_W73U6t",
     "image_banner_JnCCfH",
     "slideshow_YBRr7D",
     "featured_collection_Nx6C4k",
