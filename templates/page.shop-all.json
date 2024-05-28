@@ -387,6 +387,54 @@
         "show_text_below": true
       }
     },
+    "image_banner_t9NmQF": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HCFDUt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mystic Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ag6BYK": {
+          "type": "text",
+          "settings": {
+            "text": "Of this world and beyond.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_FAYgRr": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HCFDUt",
+        "text_Ag6BYK",
+        "buttons_FAYgRr"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Imperfectly_Perfect_Creative_Shoot.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "slideshow_LtKhxJ": {
       "type": "slideshow",
       "settings": {
@@ -601,6 +649,7 @@
     "image_banner_NNyDLT",
     "featured_collection_3azrTj",
     "image_banner_RU9ipG",
+    "image_banner_t9NmQF",
     "slideshow_LtKhxJ",
     "featured_collection_aaGVaJ",
     "rich_text_QJtPaB",
