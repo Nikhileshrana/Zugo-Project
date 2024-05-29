@@ -3593,6 +3593,13 @@ height: 100%;
 
 @media only screen and (max-width: 768px) {
 
+  .slideshow__text
+  {
+    /* This will lower the text in the middle of the image */
+    position:relative; 
+    top:30%;
+  }
+
   #Slide-template--20699447230499__slideshow_FFNdyc-1>div>img{
     object-fit: cover;
     width: 100%;
