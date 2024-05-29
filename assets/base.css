@@ -3672,6 +3672,7 @@ height: 100%;
 
 .slider-buttons>button > svg {
   height: 30px;
+  width:auto;
   color:white;
 }
 
