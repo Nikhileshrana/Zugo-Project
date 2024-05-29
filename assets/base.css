@@ -3551,8 +3551,8 @@ a:visited {
 
 
 
-@media only screen and (min-width: 768px)
-{
+
+@media only screen and (max-width: 768px){
 slideshow-component .slideshow {
   object-fit: cover;
   height: auto;
@@ -3562,7 +3562,8 @@ slideshow-component .slideshow {
 }
 }
 
-
+@media only screen and (min-width: 768px)
+{
 slideshow-component .slideshow 
 {
   object-fit: cover;
@@ -3570,9 +3571,8 @@ slideshow-component .slideshow
   min-height: 92vh;
   width: 100%;
   overflow: hidden;
-  border: 10px red solid;
 }
-
+}
 
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1) 
@@ -3606,7 +3606,7 @@ height: 100%;
 
 
 /* Centering the Home Page Photos in mobile view */
-
+/* 
 @media only screen and (max-width: 768px) {
   #Banner-template--20699447230499__image_banner_nf34bG{
     height: 70vh;
@@ -3643,13 +3643,13 @@ height: 100%;
   #Banner-template--20699447230499__image_banner_nf34bG {
     height: 100vh;
   }
-}
+} */
 
 /* It ends here */
 
 
 
-
+/* 
 
 
 
@@ -3689,6 +3689,6 @@ height: 100%;
 
 
 
-
+ */
 
 
