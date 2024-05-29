@@ -124,7 +124,8 @@
         "buttons_UbRtTT"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}",
+        ".banner__media {min-height: 46vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Complete_the_look_couple.jpg",
@@ -220,7 +221,8 @@
         "buttons_YdTinG"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}",
+        ".banner__media {min-height: 50vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Couple_having_fun.jpg",
@@ -303,7 +305,8 @@
         "buttons_w7PNeQ"
       ],
       "custom_css": [
-        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}",
+        ".banner__media {min-height: 50vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/My_Direction_Creative_Shoot.jpg",
