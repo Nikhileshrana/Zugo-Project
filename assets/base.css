@@ -3553,7 +3553,7 @@ a:visited {
   color: white;
 }
 
-.slideshow__text>div{
+.slideshow__text>div>a{
   border: 1.5px white solid;
 }
 
