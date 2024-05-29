@@ -3689,6 +3689,9 @@ height: 100%;
 
 /* This is the Slider on left and right for the Image Slider */
 
+@media only screen and (max-width: 768px) {
+
+
 #shopify-section-template--20699447230499__slideshow_FFNdyc>slideshow-component>div>:nth-child(3)
 ,
 #shopify-section-template--20699447230499__slideshow_XNWwhL>slideshow-component>div>:nth-child(3)
@@ -3700,10 +3703,9 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
-left: 83vw;
-bottom: 0px;
+left: 86vw;
+bottom: 3%;
 height: 100%;
-height: 1px green solid;
 }
 
 #shopify-section-template--20699447230499__slideshow_FFNdyc>slideshow-component>div>:nth-child(1)
@@ -3717,13 +3719,55 @@ height: 1px green solid;
 #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(1)
 {
   position: absolute;
-  right: 83vw;
-  bottom:0px;
+  right: 86vw;
+  bottom: 3%;
   height: 100%;
-  border: 1px red solid;
 }
 
-/* Ends Here Bit */
+}
+
+
+
+
+@media only screen and (min-width: 768px) 
+{
+  #shopify-section-template--20699447230499__slideshow_FFNdyc>slideshow-component>div>:nth-child(3)
+  ,
+  #shopify-section-template--20699447230499__slideshow_XNWwhL>slideshow-component>div>:nth-child(3)
+  ,
+  #shopify-section-template--20699447230499__slideshow_yTTiMx>slideshow-component>div>:nth-child(3)
+  ,
+  #shopify-section-template--20699447230499__slideshow_z8kNHx>slideshow-component>div>:nth-child(3)
+  ,
+  #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(3)
+  {
+  /* position: absolute;
+  left: 86vw;
+  bottom: 3%;
+  height: 100%; */
+  border: 2px green solid;
+  }
+  
+  #shopify-section-template--20699447230499__slideshow_FFNdyc>slideshow-component>div>:nth-child(1)
+  ,
+  #shopify-section-template--20699447230499__slideshow_XNWwhL>slideshow-component>div>:nth-child(1)
+  ,
+  #shopify-section-template--20699447230499__slideshow_yTTiMx>slideshow-component>div>:nth-child(1)
+  ,
+  #shopify-section-template--20699447230499__slideshow_z8kNHx>slideshow-component>div>:nth-child(1)
+  ,
+  #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(1)
+  {
+    /* position: absolute;
+    right: 86vw;
+    bottom: 3%;
+    height: 100%; */
+    border:1px red solid;
+  }
+}
+
+
+/* Ends here */
 
 
 
