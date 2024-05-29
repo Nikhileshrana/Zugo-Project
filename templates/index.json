@@ -210,7 +210,7 @@
         "slide_4ViNPA"
       ],
       "custom_css": [
-
+        "@media only screen and (min-width: 768px){slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}}"
       ],
       "settings": {
         "layout": "full_bleed",
