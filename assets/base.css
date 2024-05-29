@@ -3553,9 +3553,11 @@ a:visited {
   color: white;
 }
 
-.slideshow__text>div>a{
-  border: 1.5px white solid;
+.slideshow__text>div> button:after{
+  border: white solid;
 }
+
+
 
 
 
