@@ -3548,6 +3548,14 @@ a:visited {
 }
 
 
+.slideshow__text > h2,
+.slideshow__text > div > a {
+  color: white;
+}
+
+.slideshow__text>div{
+  border: 1.5px white solid;
+}
 
 
 
@@ -3562,14 +3570,7 @@ slideshow-component .slideshow {
 }
 }
 
-.slideshow__text > h2,
-.slideshow__text > div > a {
-  color: white;
-}
 
-.slideshow__text>div{
-  border: 1.5px white solid;
-}
 
 
 
