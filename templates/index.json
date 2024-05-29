@@ -210,7 +210,8 @@
         "slide_4ViNPA"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (min-width: 768px){slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -343,7 +344,8 @@
         "slide_WNgdkc"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -401,7 +403,8 @@
         "slide_hcET3H"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -459,7 +462,8 @@
         "slide_BAww7t"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -516,7 +520,8 @@
         "slide_iT6kBr"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden; }}"
       ],
       "settings": {
         "layout": "full_bleed",
