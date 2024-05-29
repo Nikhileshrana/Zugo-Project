@@ -3678,6 +3678,14 @@ height: 100%;
   }
 
 
+  #Banner-template--20699447361571__image_banner_JnCCfH>div>img
+  {
+    object-fit: cover;
+    width: 100%;
+    object-position: 92% center;
+  }
+
+
 }
 
 @media only screen and (min-width: 768px) {
