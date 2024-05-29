@@ -3600,7 +3600,7 @@ height: 100%;
     top:30%;
   }
 
-  #Slide-template--20699447230499__slideshow_FFNdyc-1>:nth-child(2)>div>img{
+  #Slide-template--20699447230499__slideshow_FFNdyc-1>div>:nth-child(2)>div>img{
     object-fit: cover;
     width: 100%;
     object-position:92% center;
