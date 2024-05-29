@@ -3704,7 +3704,7 @@ height: 100%;
 {
 position: absolute;
 left: 95vw;
-bottom: 30px;
+bottom: 30vh;
 height: 100%;
 border:1px red solid;
 }
@@ -3722,7 +3722,7 @@ border:1px red solid;
 {
   position: absolute;
     right: 95vw;
-    bottom: 30px;
+    bottom: 30vh;
     height: 100%;
     border: 1px green solid;
 }
