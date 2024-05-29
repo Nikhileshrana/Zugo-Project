@@ -211,7 +211,7 @@
       ],
       "custom_css": [
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button>svg{height: 2vh; color: white; }}"
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}"
       ],
       "settings": {
         "layout": "full_bleed",
