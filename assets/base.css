@@ -1188,7 +1188,8 @@ deferred-media {
 .button--secondary,
 .button--tertiary {
   --color-button: var(--color-secondary-button);
-  --color-button-text: var(--color-secondary-button-text);
+  /* --color-button-text: var(--color-secondary-button-text); */
+  /* Nikhilesh Remember to turn it off */
 }
 
 .button--tertiary {
@@ -3557,8 +3558,6 @@ a:visited {
 
 
 
-
-
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1) 
 , 
 .section-template--20699447361571__featured_collection_aaGVaJ-padding>slider-component>div>:nth-child(1)
@@ -3590,11 +3589,8 @@ height: 100%;
 
 
 /* Centering the Home Page Photos in mobile view */
-/* 
+
 @media only screen and (max-width: 768px) {
-  #Banner-template--20699447230499__image_banner_nf34bG{
-    height: 70vh;
-  }
 
   #Banner-template--20699447230499__image_banner_nf34bG>div>img{
     object-fit: cover;
@@ -3627,7 +3623,7 @@ height: 100%;
   #Banner-template--20699447230499__image_banner_nf34bG {
     height: 100vh;
   }
-} */
+}
 
 /* It ends here */
 
