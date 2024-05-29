@@ -212,7 +212,7 @@
       "custom_css": [
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; height: 100%; }}"
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -348,7 +348,7 @@
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}",
         ".slider-buttons > button > svg {height: 3%; width: 100%;}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; }}"
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -408,7 +408,7 @@
       "custom_css": [
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; }}"
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; bottom: 3%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; bottom: 3%; height: 100%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -468,7 +468,7 @@
       "custom_css": [
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; }}"
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -528,7 +528,7 @@
       "custom_css": [
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; } button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557); }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; }}"
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
