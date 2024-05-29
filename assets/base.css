@@ -3556,7 +3556,7 @@ a:visited {
 
 
 
-
+/* This is the Slider on left and right for the Products Slider */
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1) 
 , 
@@ -3586,6 +3586,7 @@ bottom: 3%;
 height: 100%;
 }
 
+/* Ends Here Bitch */
 
 
 /* Centering the Home Page Photos in mobile view */
@@ -3645,7 +3646,7 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_kdK3MA>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
-left: 84vw;
+left: 95vw;
 bottom: 3%;
 height: 100%;
 }
@@ -3659,7 +3660,7 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_kdK3MA>slideshow-component>div>:nth-child(1)
 {
   position: absolute;
-  right: 84vw;
+  right: 95vw;
   bottom: 3%;
   height: 100%;
 }
