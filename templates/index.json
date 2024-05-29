@@ -459,7 +459,7 @@
         "slide_BAww7t"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}"
       ],
       "settings": {
         "layout": "full_bleed",
