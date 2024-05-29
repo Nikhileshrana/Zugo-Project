@@ -3701,7 +3701,7 @@ height: 100%;
 {
 position: absolute;
 left: 86vw;
-bottom: 3%;
+bottom: 50vh;
 height: 100%;
 }
 
@@ -3717,8 +3717,9 @@ height: 100%;
 {
   position: absolute;
   right: 86vw;
-  bottom: 3%;
+  bottom: 50vh;
   height: 100%;
+  border: 1px red solid;
 }
 
 /* Ends Here Bit */
