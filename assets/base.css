@@ -3562,6 +3562,19 @@ slideshow-component .slideshow {
 }
 }
 
+.slideshow__text > h2,
+.slideshow__text > div > a {
+  color: white;
+}
+
+.slideshow__text>div{
+  border: 1.5px white solid;
+}
+
+
+
+
+
 
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1) 
