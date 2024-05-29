@@ -3648,7 +3648,7 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(3)
 {
 position: absolute;
-left: 84vw;
+left: 90vw;
 bottom: 3%;
 height: 100%;
 }
@@ -3664,17 +3664,13 @@ height: 100%;
 #shopify-section-template--20699447230499__slideshow_FLrXJV>slideshow-component>div>:nth-child(1)
 {
   position: absolute;
-  right: 84vw;
+  right: 90vw;
   bottom: 3%;
   height: 100%;
 }
 
 
-.slider-buttons>button > svg {
-  height: 30px;
-  width:auto;
-  color:white;
-}
+
 
 
 }
