@@ -3689,6 +3689,7 @@ height: 100%;
 
 
 
+@media only screen and (min-width: 1026px) {
 
 
 #shopify-section-template--20699447230499__slideshow_FFNdyc>slideshow-component>div>:nth-child(3)
@@ -3727,3 +3728,4 @@ border:1px red solid;
 }
 
 
+}
