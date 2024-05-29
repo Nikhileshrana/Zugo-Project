@@ -213,13 +213,13 @@
         "button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557);}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
+        "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
@@ -349,7 +349,7 @@
         "button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557);}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
+        "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -410,7 +410,7 @@
         "button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557);}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
+        "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -471,7 +471,7 @@
         "button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557);}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
+        "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -532,7 +532,7 @@
         "button > svg {height: 2vh; color: rgba(255, 255, 255, 0.557);}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
+        "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
       ],
       "settings": {
         "layout": "full_bleed",
