@@ -3678,6 +3678,7 @@ height: 100%;
   }
 
 
+  /* Shop Section Images MObile Fix */
   #Banner-template--20699447361571__image_banner_JnCCfH>div>img
   {
     object-fit: cover;
@@ -3690,7 +3691,13 @@ height: 100%;
       width: 100%;
       object-position: 27% center;
   }
+  #Banner-template--20699447361571__image_banner_NNyDLT > div > img {
+    object-fit: cover;
+        width: 100%;
+        object-position: 14% center;
+  }
 
+  /* Ends here */
 
 }
 
