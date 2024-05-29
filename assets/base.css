@@ -3570,6 +3570,7 @@ slideshow-component .slideshow
   min-height: 92vh;
   width: 100%;
   overflow: hidden;
+  border: 10px red solid;
 }
 
 
