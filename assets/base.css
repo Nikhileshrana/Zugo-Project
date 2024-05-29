@@ -3696,6 +3696,11 @@ height: 100%;
         width: 100%;
         object-position: 14% center;
   }
+  #Banner-template--20699447361571__image_banner_t9NmQF > div > img {
+    object-fit: cover;
+          width: 100%;
+          object-position: 64% center;
+  }
 
   /* Ends here */
 
