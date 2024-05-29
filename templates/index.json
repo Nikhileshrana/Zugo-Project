@@ -173,7 +173,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Siddhartha_collab_image_13.jpg",
             "heading": "This is what it takes...",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "SIDDHARTH COLLAB",
             "link": "shopify:\/\/products\/crown-of-success",
@@ -307,7 +307,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Nector_of_life_on_f_model_2.jpg",
             "heading": "Nector of Life",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "VIEW",
             "link": "shopify:\/\/products\/beginnings-small",
@@ -366,7 +366,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Storm_Within_on_m_model.jpg",
             "heading": "Storm Within",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "VIEW",
             "link": "shopify:\/\/products\/storm-within",
@@ -424,8 +424,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Couple_with_each_other_77a3924e-4319-438e-8cf1-527f50cb7714.jpg",
-            "heading": ".",
-            "heading_size": "h1",
+            "heading": "Better together...",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "VIEW",
             "link": "shopify:\/\/products\/globe-pendant",
@@ -482,9 +482,9 @@
         "slide_8qrnxW": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Vibes_Custom_amulet_1.jpg",
+            "image": "shopify:\/\/shop_images\/Vibes_Custom_Amulet_small_1.jpg",
             "heading": "Reach out for custom projects",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "CONTACT US",
             "link": "shopify:\/\/pages\/contact",
@@ -500,14 +500,15 @@
         "slide_iT6kBr": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
+            "image": "shopify:\/\/shop_images\/Vibes_Custom_Amulet.jpg",
+            "heading": "Reach out for custom projects",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "CONTACT US",
+            "link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",

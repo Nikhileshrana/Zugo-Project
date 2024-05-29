@@ -123,6 +123,9 @@
         "text_Rghacn",
         "buttons_UbRtTT"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Complete_the_look_couple.jpg",
         "image_overlay_opacity": 0,
@@ -216,6 +219,9 @@
         "text_iLPB4C",
         "buttons_YdTinG"
       ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Couple_having_fun.jpg",
         "image_overlay_opacity": 0,
@@ -252,8 +258,8 @@
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -291,6 +297,9 @@
         "heading_6ymgdh",
         "text_fbdzMF",
         "buttons_w7PNeQ"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/My_Direction_Creative_Shoot.jpg",
@@ -372,6 +381,9 @@
         "heading_HCFDUt",
         "text_Ag6BYK",
         "buttons_FAYgRr"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) {h2 {color: white; } p {color: white; font-size: 2vw; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Imperfectly_Perfect_Creative_Shoot.jpg",
