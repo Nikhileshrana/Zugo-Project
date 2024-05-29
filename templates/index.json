@@ -210,8 +210,8 @@
         "slide_4ViNPA"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {min-height: 92vh; }}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -344,8 +344,8 @@
         "slide_WNgdkc"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {min-height: 92vh; }}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -403,8 +403,8 @@
         "slide_hcET3H"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {min-height: 92vh; }}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -462,8 +462,8 @@
         "slide_BAww7t"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {min-height: 92vh; }}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92; width: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -520,8 +520,8 @@
         "slide_iT6kBr"
       ],
       "custom_css": [
-        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 60vh; width: 100%; overflow: hidden;}",
-        "@media only screen and (min-width: 768px) {slideshow-component .slideshow {min-height: 92vh; }}"
+        "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
+        "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}"
       ],
       "settings": {
         "layout": "full_bleed",
