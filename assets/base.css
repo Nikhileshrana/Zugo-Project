@@ -3551,6 +3551,28 @@ a:visited {
 
 
 
+@media only screen and (max-width: 768px)
+{
+slideshow-component .slideshow {
+  object-fit: cover;
+  height: auto;
+  min-height: 60vh;
+  width: 100%;
+  overflow: hidden;
+}
+}
+
+
+slideshow-component .slideshow 
+{
+  object-fit: cover;
+  height: auto;
+  min-height: 60vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+
 
 .section-template--20699447230499__featured_collection-padding>slider-component>div>:nth-child(1) 
 , 
