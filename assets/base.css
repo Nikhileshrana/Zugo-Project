@@ -3593,29 +3593,36 @@ height: 100%;
 
 @media only screen and (max-width: 768px) {
 
-  #Banner-template--20699447230499__image_banner_nf34bG>div>img{
+  #Slide-template--20699447230499__slideshow_FFNdyc-1>div>img{
     object-fit: cover;
     width: 100%;
     object-position: right;
   }
 
-  #Slide-template--20699447230499__slideshow_eGbdKn-1>div>img{
+  #Slide-template--20699447230499__slideshow_XNWwhL-1>div>img{
     object-fit: cover;
     width: 100%;
     object-position: left;
   }
 
-  #Slide-template--20699447230499__slideshow_zfVVDc-1>div>img{
+  #Slide-template--20699447230499__slideshow_yTTiMx-1>div>img{
     object-fit: cover;
     width: 100%;
     object-position:75% center;
   }
 
-  #Slide-template--20699447230499__slideshow_NkYFhM-1>div>img{
+  #Slide-template--20699447230499__slideshow_z8kNHx-1>div>img{
     object-fit: cover;
     width: 100%;
     object-position:35% center;
   }
+
+  #Slide-template--20699447230499__slideshow_FLrXJV-1>div>img{
+    object-fit: cover;
+    width: 100%;
+    object-position:35% center;
+  }
+  
 
 
 }
