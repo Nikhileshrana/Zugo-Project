@@ -3705,6 +3705,7 @@ position: absolute;
 left: 95vw;
 bottom: 30px;
 height: 100%;
+border:1px red solid;
 }
 
 
@@ -3722,6 +3723,7 @@ height: 100%;
     right: 95vw;
     bottom: 30px;
     height: 100%;
+    border: 1px green solid;
 }
 
 
