@@ -3562,8 +3562,6 @@ slideshow-component .slideshow {
 }
 }
 
-@media only screen and (min-width: 768px)
-{
 slideshow-component .slideshow 
 {
   object-fit: cover;
@@ -3571,7 +3569,6 @@ slideshow-component .slideshow
   min-height: 92vh;
   width: 100%;
   overflow: hidden;
-}
 }
 
 
