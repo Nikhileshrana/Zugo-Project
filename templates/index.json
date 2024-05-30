@@ -638,6 +638,54 @@
         "padding_bottom": 8
       }
     },
+    "image_banner_6XQNLe": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HaRgme": {
+          "type": "heading",
+          "settings": {
+            "heading": "EXPERIENCE ZUGO",
+            "heading_size": "h2"
+          }
+        },
+        "text_LzJJV3": {
+          "type": "text",
+          "settings": {
+            "text": "Skin friendly antitarnish premium material <br> 30 day return (non-customized) <br> 30 month warranty",
+            "text_style": "body"
+          }
+        },
+        "buttons_7hne3w": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HaRgme",
+        "text_LzJJV3",
+        "buttons_7hne3w"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Experience_Zugo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "image_banner_Grw87d": {
       "type": "image-banner",
       "blocks": {
@@ -747,6 +795,7 @@
     "slideshow_FLrXJV",
     "image_banner_yUHjXt",
     "rich_text_NMYTh6",
+    "image_banner_6XQNLe",
     "image_banner_Grw87d",
     "rich_text_xDMjt7"
   ]
