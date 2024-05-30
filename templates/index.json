@@ -723,6 +723,9 @@
         "text_kXEdaM",
         "buttons_tdj4Jc"
       ],
+      "custom_css": [
+        ".banner__text > p {opacity: 1; color: white;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Experience_Zugo_acc33d9c-a2ad-4b02-b12c-4b17d5c16d16.jpg",
         "image_overlay_opacity": 0,
