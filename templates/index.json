@@ -695,24 +695,24 @@
         "heading_bXPLez": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "EXPERIENCE ZUGO",
+            "heading_size": "h2"
           }
         },
         "text_kXEdaM": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Skin freindly anti tarnish stainless steel",
             "text_style": "body"
           }
         },
         "buttons_tdj4Jc": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -726,9 +726,9 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Experience_Zugo_acc33d9c-a2ad-4b02-b12c-4b17d5c16d16.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
