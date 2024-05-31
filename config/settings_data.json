@@ -141,9 +141,9 @@
       "Announcement_Zugo_Custom_Github": {
         "type": "Announcement_Zugo_Custom_Github",
         "settings": {
-          "text": "Zugo - Free Delivery Above ₹1599",
-          "colorBackground": "#000000",
-          "colorText": "#ffffff",
+          "text": "Free delivery on all orders!",
+          "colorBackground": "#eae7e2",
+          "colorText": "#777070",
           "link": ""
         }
       }
