@@ -89,6 +89,9 @@
         "text_mHwfTU",
         "button_nnxNn3"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -141,6 +144,9 @@
       "block_order": [
         "text_r4ymwN"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -191,6 +197,9 @@
         "row_gVCrDb",
         "row_93EiU3",
         "row_LLUTQJ"
+      ],
+      "custom_css": [
+        ".button {border: 1.5px #747d80 solid; color: #747d80;}"
       ],
       "settings": {
         "image_height": "medium",
