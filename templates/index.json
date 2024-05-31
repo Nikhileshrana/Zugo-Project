@@ -333,7 +333,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "VIEW PRODUCT",
-            "link": "",
+            "link": "shopify:\/\/collections\/all",
             "button_style_secondary": true,
             "box_align": "bottom-right",
             "show_text_box": false,
