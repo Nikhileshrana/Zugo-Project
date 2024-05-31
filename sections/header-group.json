@@ -2,16 +2,6 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "custom_liquid_iDXntg": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "header": {
       "type": "header",
       "custom_css": [
@@ -53,7 +43,6 @@
     }
   },
   "order": [
-    "custom_liquid_iDXntg",
     "header",
     "custom_liquid_z33Hnp"
   ]
