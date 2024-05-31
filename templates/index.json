@@ -292,6 +292,9 @@
         "text_jE8Dj6",
         "button_QMtUFi"
       ],
+      "custom_css": [
+        ".button {border: 1.5px #465158 solid; color: #465158;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -638,24 +641,24 @@
         "padding_bottom": 8
       }
     },
-    "image_banner_6XQNLe": {
+    "image_banner_Grw87d": {
       "type": "image-banner",
       "blocks": {
-        "heading_HaRgme": {
+        "heading_bXPLez": {
           "type": "heading",
           "settings": {
             "heading": "EXPERIENCE ZUGO",
             "heading_size": "h2"
           }
         },
-        "text_LzJJV3": {
+        "text_kXEdaM": {
           "type": "text",
           "settings": {
-            "text": "Skin friendly antitarnish premium material <br> 30 day return (non-customized) <br> 30 month warranty",
-            "text_style": "body"
+            "text": "Skin freindly anti-tarnish stainless steel  <br> 30 day return (non-customized)  <br> 30 month warranty",
+            "text_style": "subtitle"
           }
         },
-        "buttons_7hne3w": {
+        "buttons_tdj4Jc": {
           "type": "buttons",
           "settings": {
             "button_label_1": "",
@@ -668,25 +671,25 @@
         }
       },
       "block_order": [
-        "heading_HaRgme",
-        "text_LzJJV3",
-        "buttons_7hne3w"
+        "heading_bXPLez",
+        "text_kXEdaM",
+        "buttons_tdj4Jc"
       ],
       "custom_css": [
-        ".banner__text > p {opacity: 1; color: white;}"
+
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-kim-stiver-842876.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "desktop_content_position": "bottom-center",
+        "image": "shopify:\/\/shop_images\/Experience_Zugo_acc33d9c-a2ad-4b02-b12c-4b17d5c16d16.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-right",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text_xDMjt7": {
@@ -747,7 +750,7 @@
     "slideshow_FLrXJV",
     "image_banner_yUHjXt",
     "rich_text_NMYTh6",
-    "image_banner_6XQNLe",
+    "image_banner_Grw87d",
     "rich_text_xDMjt7"
   ]
 }
