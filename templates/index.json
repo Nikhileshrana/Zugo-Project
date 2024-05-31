@@ -676,7 +676,8 @@
         "buttons_tdj4Jc"
       ],
       "custom_css": [
-
+        "@media only screen and (max-width: 400px) {.banner__media {min-height: 40vh; height:100%; } .banner__media > img {object-fit: cover; width: 100%; object-position: 40% center; }}",
+        ".banner__media {height: 100%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Experience_Zugo_2.jpg",
