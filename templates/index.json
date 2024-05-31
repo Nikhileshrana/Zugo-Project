@@ -292,6 +292,9 @@
         "text_jE8Dj6",
         "button_QMtUFi"
       ],
+      "custom_css": [
+        ".button {border: 1.5px #465158 solid; color: #465158;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
