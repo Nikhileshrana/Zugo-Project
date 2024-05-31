@@ -137,6 +137,15 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "Announcement_Zugo_Custom_Github": {
+        "type": "Announcement_Zugo_Custom_Github",
+        "settings": {
+          "text": "ZUGO | FREE DELIVERY ABOVE ₹1599",
+          "colorBackground": "#000",
+          "colorText": "#fff",
+          "link": ""
+        }
       }
     },
     "content_for_index": [
