@@ -586,8 +586,8 @@
         ".banner__text > p {opacity: 1; color: white;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-antoni-shkraba-7167024.jpg",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/Handcrafted_in_Bharat.png",
+        "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
