@@ -61,6 +61,12 @@
             "heading_size": "h2"
           }
         },
+        "text_hRer9T": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Every Zugo amulet holds a story that profoundly connects with its wearer. Wear it as a conscious reminder.<\/h5>"
+          }
+        },
         "text_Ve4RXx": {
           "type": "text",
           "settings": {
@@ -70,6 +76,7 @@
       },
       "block_order": [
         "heading_yez73q",
+        "text_hRer9T",
         "text_Ve4RXx"
       ],
       "settings": {
