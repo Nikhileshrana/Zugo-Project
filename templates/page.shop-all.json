@@ -490,95 +490,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "rich_text_zVHDYd": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_VkHrAc": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_MxqrJW": {
-          "type": "text",
-          "settings": {
-            "text": "<h4>Need something else? <br\/><br\/>Reach out for custom projects.<br\/><\/h4>"
-          }
-        },
-        "button_ab8tFb": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "shopify:\/\/pages\/contact",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_VkHrAc",
-        "text_MxqrJW",
-        "button_ab8tFb"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 20
-      }
-    },
-    "rich_text_Ypcq7w": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_cwfFEw": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_KR39bM": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "button_wFmA7L": {
-          "type": "button",
-          "settings": {
-            "button_label": "CONTACT US",
-            "button_link": "shopify:\/\/pages\/contact",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_cwfFEw",
-        "text_KR39bM",
-        "button_wFmA7L"
-      ],
-      "custom_css": [
-        ".rich-text__buttons > a {color: #465158; border: 1.5px #465158 solid;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 0,
-        "padding_bottom": 32
+        "padding_top": 20,
+        "padding_bottom": 16
       }
     },
     "image_with_text_rH7CTW": {
@@ -644,8 +557,6 @@
     "slideshow_LtKhxJ",
     "featured_collection_aaGVaJ",
     "rich_text_QJtPaB",
-    "rich_text_zVHDYd",
-    "rich_text_Ypcq7w",
     "image_with_text_rH7CTW"
   ]
 }
