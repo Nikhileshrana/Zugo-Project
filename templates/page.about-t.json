@@ -170,17 +170,6 @@
             "button_link": ""
           }
         },
-        "row_93EiU3": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Special_request_pendant_creative_shoot.png",
-            "caption": "Your zugo your way",
-            "heading": "",
-            "text": "<p>There is no match for a thoughtfully customized gift.<br\/><br\/>We do custom projects on special request. Our team is here to take your vision and make one of a kind zugo.<\/p>",
-            "button_label": "CONTACT",
-            "button_link": "shopify:\/\/pages\/contact"
-          }
-        },
         "row_LLUTQJ": {
           "type": "row",
           "settings": {
@@ -188,14 +177,13 @@
             "caption": "zugo promise",
             "heading": "",
             "text": "<p>We craft Zugo amulets to accompany you on every journey life presents. Our commitment to superior materials, precise craftmanship, and rigorous quality check ensures that every item is made with special care. Here is our zugo promise. <br\/><\/p><ul><li>30 day product return for all<br\/>non-customized zugo<\/li><li>30 month manufacturer warranty<br\/><\/li><\/ul>",
-            "button_label": "SHIPPING & RETURNS",
+            "button_label": "CONTACT US",
             "button_link": "shopify:\/\/pages\/contact"
           }
         }
       },
       "block_order": [
         "row_gVCrDb",
-        "row_93EiU3",
         "row_LLUTQJ"
       ],
       "custom_css": [
