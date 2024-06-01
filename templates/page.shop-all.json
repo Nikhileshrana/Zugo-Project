@@ -613,9 +613,10 @@
         "button_nbmJUr"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Special_request_pendant_creative_shoot_8d9d2f55-bb63-48ff-9a81-0f9fa7bbe206.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
