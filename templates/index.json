@@ -676,7 +676,7 @@
         "buttons_tdj4Jc"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 400px) {.banner__media {min-height: 40vh; height:100%; } .banner__media > img {object-fit: cover; width: 100%; object-position: 40% center; }}",
+        "@media only screen and (max-width: 400px) {.banner__media {min-height: 40vh; height: 100%; } .banner__media > img {object-fit: cover; width: 100%; object-position: 40% center; }}",
         ".banner__media {height: 100%;}"
       ],
       "settings": {
@@ -734,6 +734,59 @@
         "padding_top": 12,
         "padding_bottom": 12
       }
+    },
+    "slideshow_zhkfJV": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MKqY6t": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NcrhT9": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_MKqY6t",
+        "slide_NcrhT9"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -752,6 +805,7 @@
     "image_banner_yUHjXt",
     "rich_text_NMYTh6",
     "image_banner_Grw87d",
-    "rich_text_xDMjt7"
+    "rich_text_xDMjt7",
+    "slideshow_zhkfJV"
   ]
 }
