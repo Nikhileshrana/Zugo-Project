@@ -141,11 +141,11 @@
       "Announcement_Zugo_Custom_Github": {
         "type": "Announcement_Zugo_Custom_Github",
         "custom_css": [
-          ".custom-marquee > div {height:20px;}",
-          ".custom-marquee{height:25px;}"
+          ".custom-marquee > div {height: 20px;}",
+          ".custom-marquee {height: 25px;}"
         ],
         "settings": {
-          "text": "Free domestic delivery on all orders!",
+          "text": "Free domestic shipping on all orders!",
           "colorBackground": "#eae7e2",
           "colorText": "#777070",
           "link": ""
