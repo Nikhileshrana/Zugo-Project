@@ -9,6 +9,15 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_yxTFeV": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_hkQ4Cb": {
       "type": "rich-text",
       "blocks": {
@@ -748,6 +757,7 @@
   },
   "order": [
     "custom_liquid_cXPDdn",
+    "custom_liquid_yxTFeV",
     "rich_text_hkQ4Cb",
     "rich_text_D6jQVx",
     "rich_text_BNcP98",
