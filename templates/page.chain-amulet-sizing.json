@@ -76,6 +76,84 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_dLCVCn": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_rTTJQ9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_ePFjMY": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_fhGneC": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rTTJQ9",
+        "text_ePFjMY",
+        "buttons_fhGneC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chain_length_guide_f_model.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_gdRHiF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YccYDg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_qJkmUe": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_YccYDg",
+        "text_qJkmUe"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_Vehcr3": {
       "type": "rich-text",
       "blocks": {
@@ -104,6 +182,8 @@
     "rich_text_ePFgDW",
     "slideshow_YBRr7D",
     "rich_text_ygHn9d",
+    "image_banner_dLCVCn",
+    "rich_text_gdRHiF",
     "rich_text_Vehcr3"
   ]
 }
