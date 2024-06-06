@@ -271,6 +271,96 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "rich_text_iVXBMG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tqWKHd": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_jNjY67": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_yqLGhN": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tqWKHd",
+        "text_jNjY67",
+        "button_yqLGhN"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_XcEc9x": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_xNY6fN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_WiK7Ne": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_AqjXVY": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_xNY6fN",
+        "text_WiK7Ne",
+        "buttons_AqjXVY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zugo_amulet_sizing_guide.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -282,6 +372,8 @@
     "rich_text_gdRHiF",
     "image_banner_TEdx7y",
     "rich_text_Vehcr3",
-    "image_banner_HGbKzp"
+    "image_banner_HGbKzp",
+    "rich_text_iVXBMG",
+    "image_banner_XcEc9x"
   ]
 }
