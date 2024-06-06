@@ -89,7 +89,7 @@
         "text_V8qXYy": {
           "type": "text",
           "settings": {
-            "text": "<p>Chain sizing guide.<\/p>",
+            "text": "<p><strong>Chain sizing guide.<\/strong><\/p>",
             "text_style": "subtitle"
           }
         },
