@@ -76,6 +76,53 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_JfkxBB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wMmhXJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_V8qXYy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chain sizing guide.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_iTf3nf": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wMmhXJ",
+        "text_V8qXYy",
+        "button_iTf3nf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chain_length_guide_f_model.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_dLCVCn": {
       "type": "image-banner",
       "blocks": {
@@ -368,6 +415,7 @@
     "rich_text_ePFgDW",
     "slideshow_YBRr7D",
     "rich_text_ygHn9d",
+    "image_with_text_JfkxBB",
     "image_banner_dLCVCn",
     "rich_text_gdRHiF",
     "image_banner_TEdx7y",
