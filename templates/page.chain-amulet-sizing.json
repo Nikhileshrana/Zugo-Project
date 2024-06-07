@@ -170,6 +170,100 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_Yqhwh4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FTwLPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_xMfMqV": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "button_QPmGkm": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FTwLPP",
+        "text_xMfMqV",
+        "button_QPmGkm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zugo_chain_styles.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_yWGKED": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_beeYKk": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_qpFKph": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "button_kzPqmE": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_beeYKk",
+        "text_qpFKph",
+        "button_kzPqmE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zugo_amulet_sizing_guide.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_dLCVCn": {
       "type": "image-banner",
       "blocks": {
@@ -464,6 +558,8 @@
     "rich_text_ygHn9d",
     "image_with_text_JfkxBB",
     "image_with_text_YQWf4w",
+    "image_with_text_Yqhwh4",
+    "image_with_text_yWGKED",
     "image_banner_dLCVCn",
     "rich_text_gdRHiF",
     "image_banner_TEdx7y",
