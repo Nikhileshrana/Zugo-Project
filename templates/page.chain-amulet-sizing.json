@@ -89,7 +89,7 @@
         "text_V8qXYy": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Chain sizing guide.<\/strong><\/p>",
+            "text": "",
             "text_style": "subtitle"
           }
         },
@@ -112,6 +112,53 @@
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_YQWf4w": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_geh7bj": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_RJe7XR": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "button_L74X3h": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_geh7bj",
+        "text_RJe7XR",
+        "button_L74X3h"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Chain_length_guide_m_model_62668f1a-62ce-4cab-894c-f0dfa2f1c81c.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -416,6 +463,7 @@
     "slideshow_YBRr7D",
     "rich_text_ygHn9d",
     "image_with_text_JfkxBB",
+    "image_with_text_YQWf4w",
     "image_banner_dLCVCn",
     "rich_text_gdRHiF",
     "image_banner_TEdx7y",
