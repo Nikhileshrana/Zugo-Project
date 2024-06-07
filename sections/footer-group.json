@@ -1,1 +1,96 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"newsletter_bEL4jW":{"type":"newsletter","blocks":{"heading_yH6bUc":{"type":"heading","settings":{"heading":"Subscribe to our emails","heading_size":"h2"}},"paragraph_F7cPK6":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers.<\/p>"}},"email_form_HAEe4x":{"type":"email_form","settings":{}}},"block_order":["heading_yH6bUc","paragraph_F7cPK6","email_form_HAEe4x"],"settings":{"color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"footer":{"type":"footer","blocks":{"link_list_TWpyCT":{"type":"link_list","settings":{"heading":"Customer Experience","menu":"customer-experience"}},"link_list_p8Nk8W":{"type":"link_list","settings":{"heading":"Policies","menu":"policies"}}},"block_order":["link_list_TWpyCT","link_list_p8Nk8W"],"custom_css":[".copyright__content {display: none;}",".footer-block {text-align: center; width: auto;}",".footer-block > ul > li {width: 100%;}"],"settings":{"color_scheme":"background-1","newsletter_enable":false,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":true,"margin_top":0,"padding_top":36,"padding_bottom":0}},"custom_liquid_QUH6YV":{"type":"custom-liquid","settings":{"custom_liquid":"<a href=\"\/\" id=\"copyright\">© 2024 zugo<\/a>\n\n    <style>\n        #copyright\n        {\n            text-decoration: none;\n            margin-left:5px;\n        }\n\n        a::before\n        {\n            color : #747D80;\n        }\n\n        a:visited\n        {\n            color : #747D80;\n        }\n    <\/style>","color_scheme":"","padding_top":0,"padding_bottom":0}}},"order":["newsletter_bEL4jW","footer","custom_liquid_QUH6YV"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_bEL4jW": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_yH6bUc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_F7cPK6": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>20% off your first order when you subscribe. Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email_form_HAEe4x": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_yH6bUc",
+        "paragraph_F7cPK6",
+        "email_form_HAEe4x"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_TWpyCT": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Customer Experience",
+            "menu": "customer-experience"
+          }
+        },
+        "link_list_p8Nk8W": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Policies",
+            "menu": "policies"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_TWpyCT",
+        "link_list_p8Nk8W"
+      ],
+      "custom_css": [
+        ".copyright__content {display: none;}",
+        ".footer-block {text-align: center; width: auto;}",
+        ".footer-block > ul > li {width: 100%;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_QUH6YV": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"\/\" id=\"copyright\">© 2024 zugo<\/a>\n\n    <style>\n        #copyright\n        {\n            text-decoration: none;\n            margin-left:5px;\n        }\n\n        a::before\n        {\n            color : #747D80;\n        }\n\n        a:visited\n        {\n            color : #747D80;\n        }\n    <\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "newsletter_bEL4jW",
+    "footer",
+    "custom_liquid_QUH6YV"
+  ]
+}
