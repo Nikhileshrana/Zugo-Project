@@ -40,7 +40,7 @@
         "custom_liquid_QJ8pkn": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<button class=\"button\">\n<a>VIEW CHAIN<\/a>\n<\/button>\n\n<button class=\"button\">\n<a>AMULET SIZE GUIDE<\/a>\n<\/button>"
+            "custom_liquid": "<button class=\"button--secondary button asdf\">\n<a>VIEW CHAIN<\/a>\n<\/button>\n\n<button class=\"button--secondary button asdf\">\n<a>AMULET SIZE GUIDE<\/a>\n<\/button>\n\n<style>\n.asdf\n{\nborder:1px #5C6A74 solid;\ncolor: #5C6A74;\n}\n<\/style>"
           }
         },
         "variant_picker": {
