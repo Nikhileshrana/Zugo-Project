@@ -40,7 +40,7 @@
         "custom_liquid_QJ8pkn": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<span><button class=\"button\">\n<a>VIEW CHAIN<\/a>\n<\/button>\n\n<button class=\"button\">\n<a>VIEW CHAIN<\/a>\n<\/button>\n\n<\/span>"
+            "custom_liquid": "<button class=\"button\">\n<a>VIEW CHAIN<\/a>\n<\/button>\n\n<button class=\"button\">\n<a>VIEW CHAIN<\/a>\n<\/button>"
           }
         },
         "variant_picker": {
