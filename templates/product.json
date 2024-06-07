@@ -40,7 +40,7 @@
         "custom_liquid_QJ8pkn": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div id=\"product-section-button\">\n<button class=\"button--secondary button asdf\">\n<a href=\"\/\">VIEW CHAIN<\/a>\n<\/button>\n\n<button class=\"button--secondary button asdf\">\n<a href=\"\/\">AMULET SIZE GUIDE<\/a>\n<\/button>\n<\/div>\n\n\n<style>\n.asdf\n{\nborder:1.7px #5C6A74 solid;\ncolor: #5C6A74;\nwidth:100%;\nfont-size:13px;\n}\n\n#product-section-button\n{\ndisplay:flex;\njustify-content:space-around;\ngap:5px;\n}\n\na\n{\ntext-decoration:none;\ncolor:#5C6A74;\n}\n<\/style>"
+            "custom_liquid": "<div id=\"product-section-button\">\n<button class=\"button--secondary button asdf\">\n<a href=\"\/\">VIEW CHAIN & AMULET SIZE GUIDE<\/a>\n<\/button>\n\n<\/div>\n\n\n<style>\n.asdf\n{\nborder:1.7px #5C6A74 solid;\ncolor: #5C6A74;\nwidth:100%;\nfont-size:13px;\n}\n\n#product-section-button\n{\ndisplay:flex;\njustify-content:space-around;\ngap:5px;\n}\n\na\n{\ntext-decoration:none;\ncolor:#5C6A74;\n}\n<\/style>"
           }
         },
         "variant_picker": {
