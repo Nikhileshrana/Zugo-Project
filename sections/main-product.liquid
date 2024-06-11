@@ -395,35 +395,7 @@
 
 
 
-                  <!-- {%- when 'price' -%}
-<div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
-  {%- render 'price',
-    product: product,
-    use_variant: true,
-    show_badges: true,
-    price_class: 'price--large'
-  -%}
-</div>
-{%- if product.quantity_price_breaks_configured? -%}
-  <div class="volume-pricing-note" id="Volume-Note-{{ section.id }}">
-    <span>{{ 'products.product.volume_pricing.note' | t }}</span>
-  </div>
-{%- endif -%}
-<div class="product__tax caption rte">
-  {%- if cart.taxes_included -%}
-    {{ 'products.product.include_taxes' | t }}
-  {%- endif -%}
-  {%- if shop.shipping_policy.body != blank -%}
-    {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
-  {%- endif -%}
-</div>
-
-<!-- Add Checkbox Here -->
-<div class="product__custom-checkbox">
-  <input type="checkbox" id="additional-feature" name="additional-feature" value="200">
-  <label for="additional-feature">Add Extra Feature (200rs)</label>
-</div> -->
-
+                  
 
 
                   
