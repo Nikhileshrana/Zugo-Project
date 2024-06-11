@@ -275,6 +275,31 @@
                       </button>
 
 
+
+
+
+                      <input type="checkbox" id="additional-feature-checkbox" name="option-{{ variant.id }}-{{ option.position }}" value="200" data-product-price="{{ product.price | plus: 0 }}">
+<label for="additional-feature-checkbox">Include Additional Feature (₹200)</label>
+<script>
+  document.getElementById('additional-feature-checkbox').addEventListener('change', function() {
+    const productPriceInput = document.querySelector('[data-product-price]');
+    const currentPrice = parseFloat(productPriceInput.dataset.productPrice);
+    productPriceInput.dataset.productPrice = this.checked ? currentPrice + 200 : currentPrice - 200;
+    // Update the displayed price on the product page using JavaScript (implementation may vary depending on your theme)
+  });
+</script>
+
+
+
+
+
+
+
+
+
+                      
+
+
                       
                       
                     </quantity-input>
