@@ -393,6 +393,57 @@
                   
 
 
+
+
+
+
+                  {%- when 'price' -%}
+<div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
+  {%- render 'price',
+    product: product,
+    use_variant: true,
+    show_badges: true,
+    price_class: 'price--large'
+  -%}
+</div>
+{%- if product.quantity_price_breaks_configured? -%}
+  <div class="volume-pricing-note" id="Volume-Note-{{ section.id }}">
+    <span>{{ 'products.product.volume_pricing.note' | t }}</span>
+  </div>
+{%- endif -%}
+<div class="product__tax caption rte">
+  {%- if cart.taxes_included -%}
+    {{ 'products.product.include_taxes' | t }}
+  {%- endif -%}
+  {%- if shop.shipping_policy.body != blank -%}
+    {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
+  {%- endif -%}
+</div>
+
+<!-- Add Checkbox Here -->
+<div class="product__custom-checkbox">
+  <input type="checkbox" id="additional-feature" name="additional-feature" value="200">
+  <label for="additional-feature">Add Extra Feature (200rs)</label>
+</div>
+
+
+
+
+                  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const checkbox = document.getElementById('additional-feature');
+    const priceElement = document.querySelector('.price--large'); // Adjust selector as necessary
+    let initialPrice = parseFloat(priceElement.textContent.replace(/[^\d.-]/g, "")); // Convert price to float
+
+    checkbox.addEventListener('change', function() {
+      const additionalCost = checkbox.checked ? 200 : 0;
+      priceElement.textContent = (initialPrice + additionalCost).toFixed(2) + 'rs'; // Adjust currency format as necessary
+    });
+  });
+</script>
+
+                  
+
     
 
 
