@@ -387,6 +387,24 @@
                       </span>
                     {%- endif -%}
                   </div>
+
+
+
+
+
+
+
+
+                  <input type="checkbox" id="additional-feature-checkbox" data-variant-id="{{ variant.id }}" value="{{ variant.price | plus: 200 }}">
+<label for="additional-feature-checkbox">Include Additional Feature (₹200)</label>
+
+
+                  
+
+
+
+
+                  
                   {%- if product.quantity_price_breaks_configured? -%}
                     <volume-pricing class="parent-display no-js-hidden" id="Volume-{{ section.id }}">
                       {%- if product.selected_or_first_available_variant.quantity_price_breaks.size > 0 -%}
