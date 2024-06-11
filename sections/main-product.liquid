@@ -184,12 +184,6 @@
                     {%- endif -%}
                   {%- endif -%}
                 </p>
-
-
-
-                            
-
-                            
               {%- when 'description' -%}
                 {%- if product.description != blank -%}
                   <div class="product__description rte quick-add-hidden" {{ block.shopify_attributes }}>
@@ -279,31 +273,7 @@
                         </span>
                         {% render 'icon-plus' %}
                       </button>
-
-
-
-
-
-                      
-                      <input type="checkbox" id="additional-feature-checkbox" name="option-{{ variant.id }}-{{ option.position }}" value="200" data-product-price="{{ product.price | plus: 0 }}">
-<label for="additional-feature-checkbox">Include Additional Feature (₹200)</label> 
-                      
-                      
-                      
-
-
-
-
-
-
-
-
-
-                      
-
-
-                      
-                      
+              
                     </quantity-input>
                     {%- liquid
                       assign volume_pricing_array = product.selected_or_first_available_variant.quantity_price_breaks | sort: 'quantity' | reverse
