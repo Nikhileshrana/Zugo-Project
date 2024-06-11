@@ -40,7 +40,7 @@
         "custom_liquid_QJ8pkn": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div id=\"product-section-button\">\n    <a href=\"\/pages\/chain-and-amulet-sizing-guide\" class=\"button--secondary button asdf\">\n        VIEW CHAIN & AMULET SIZE GUIDE\n    <\/a>\n<\/div>\n\n\n<style>\n.asdf\n{\nborder:1.7px #5C6A74 solid;\ncolor: #5C6A74;\nwidth:100%;\nfont-size:13px;\n}\n\n#product-section-button\n{\ndisplay:flex;\njustify-content:space-around;\ngap:5px;\n}\n\na\n{\ntext-decoration:none;\ncolor:#5C6A74;\n}\n<\/style>"
+            "custom_liquid": "<div class=\"product__custom-checkbox\">\n  <input type=\"checkbox\" id=\"additional-feature\" name=\"additional-feature\" value=\"200\">\n  <label for=\"additional-feature\">Add Extra Feature (200rs)<\/label>\n<\/div>\n\n\n\n\n\n<div id=\"product-section-button\">\n    <a href=\"\/pages\/chain-and-amulet-sizing-guide\" class=\"button--secondary button asdf\">\n        VIEW CHAIN & AMULET SIZE GUIDE\n    <\/a>\n<\/div>\n\n\n<style>\n.asdf\n{\nborder:1.7px #5C6A74 solid;\ncolor: #5C6A74;\nwidth:100%;\nfont-size:13px;\n}\n\n#product-section-button\n{\ndisplay:flex;\njustify-content:space-around;\ngap:5px;\n}\n\na\n{\ntext-decoration:none;\ncolor:#5C6A74;\n}\n<\/style>"
           }
         },
         "variant_picker": {
