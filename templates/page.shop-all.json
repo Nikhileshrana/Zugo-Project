@@ -225,7 +225,7 @@
         ".banner__media {min-height: 50vh;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Couple_having_fun.jpg",
+        "image": "shopify:\/\/shop_images\/Couple_cute_peach.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "bottom-right",
@@ -500,8 +500,8 @@
         "heading_piRi87": {
           "type": "heading",
           "settings": {
-            "heading": "Your Zugo your way...",
-            "heading_size": "h2"
+            "heading": "Your Zugo Your Way...",
+            "heading_size": "h1"
           }
         },
         "text_JfqhPG": {
@@ -524,6 +524,9 @@
         "heading_piRi87",
         "text_JfqhPG",
         "button_nbmJUr"
+      ],
+      "custom_css": [
+        "a {background: transparent; color: #5c6a74;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Special_request_pendant_creative_shoot_8d9d2f55-bb63-48ff-9a81-0f9fa7bbe206.png",
