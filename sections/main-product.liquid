@@ -187,8 +187,7 @@
 
 
 
-                            <input type="checkbox" id="additional-feature-checkbox" name="option-{{ variant.id }}-{{ option.position }}" value="200" data-product-price="{{ product.price | plus: 0 }}">
-<label for="additional-feature-checkbox">Include Additional Feature (₹200)</label> 
+                            
 
                             
               {%- when 'description' -%}
@@ -286,7 +285,8 @@
 
 
                       
-                      
+                      <input type="checkbox" id="additional-feature-checkbox" name="option-{{ variant.id }}-{{ option.position }}" value="200" data-product-price="{{ product.price | plus: 0 }}">
+<label for="additional-feature-checkbox">Include Additional Feature (₹200)</label> 
                       
                       
                       
