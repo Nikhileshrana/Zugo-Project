@@ -390,11 +390,130 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                   
 
 
 
+<section class="product">
+  <div class="grid grid--2-col">
+    {%- if section.settings.media_position == 'left' -%}
+      <div class="grid__item product__media-wrapper">
+        {% render 'product-media-gallery', variant_images: variant_images %}
+      </div>
+    {%- endif -%}
+    <div class="grid__item product__info-wrapper">
+      <product-info class="product__info-container" id="ProductInfo-{{ section.id }}">
+        <!-- Existing code for product info here -->
+        
+        <form method="post" action="/cart/add" id="product-form-{{ section.id }}">
+          <!-- Existing product form code here -->
+          
+          <!-- Add checkbox here -->
+          <label>
+            <input type="checkbox" id="extra-cost-checkbox" name="extra_cost" value="200">
+            Add extra feature for $200
+          </label>
+          
+          <div class="product-form__submit">
+            <!-- Submit button and other form elements -->
+            <button type="submit" class="button">
+              {{ 'products.product.add_to_cart' | t }}
+            </button>
+          </div>
+        </form>
+        
+        <!-- Existing code for product details and volume pricing here -->
+      </product-info>
+    </div>
+    {%- if section.settings.media_position == 'right' -%}
+      <div class="grid__item product__media-wrapper small-hide">
+        {% render 'product-media-gallery', variant_images: variant_images, is_duplicate: true %}
+      </div>
+    {%- endif -%}
+  </div>
+  {% render 'product-media-modal', variant_images: variant_images %}
+</section>
 
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const checkbox = document.getElementById('extra-cost-checkbox');
+    const priceElement = document.querySelector('.product__price'); // Adjust selector based on your actual price element
+    const basePrice = parseFloat(priceElement.getAttribute('data-base-price')); // Store the base price
+    const extraCost = 200;
+
+    // Initialize the price element with base price
+    if (!priceElement.getAttribute('data-base-price')) {
+      priceElement.setAttribute('data-base-price', priceElement.innerText.replace(/[^0-9.-]+/g, ""));
+    }
+
+    // Function to update price
+    function updatePrice() {
+      let totalPrice = basePrice;
+      if (checkbox.checked) {
+        totalPrice += extraCost;
+      }
+      priceElement.innerText = totalPrice.toLocaleString(undefined, { style: 'currency', currency: 'USD' }); // Adjust currency as needed
+    }
+
+    // Event listener for checkbox
+    checkbox.addEventListener('change', updatePrice);
+
+    // Initialize price on page load
+    updatePrice();
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
 
 
 
