@@ -113,16 +113,84 @@
                   -%}
                 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               
 
-              {%- assign product.price = product.price | plus: 20000 -%}
-<div>{{ price | money_with_currency }}</div>
+              <!-- {%- assign new_price = product.price | plus: 20000 -%}
+<div>{{ new_price | money_with_currency }}</div> -->
 
 
 
 
 
               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
               
                 {%- if product.quantity_price_breaks_configured? -%}
                   <div class="volume-pricing-note" id="Volume-Note-{{ section.id }}">
@@ -402,68 +470,6 @@
                       </span>
                     {%- endif -%}
                   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  
-
-
-
-
-                  
-
-    
-
-
-                  
-
 
 
                   
