@@ -105,31 +105,7 @@
               
 
           
-  {%- when 'price' -%}
-  <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
-    {%- render 'price',
-      product: product,
-      use_variant: true,
-      show_badges: true,
-      price_class: 'price--large'
-    -%}
-    <button id="add-200-btn" type="button" onclick="addToTotal()">Add $200</button>
-  </div>
 
-<script>
-  function addToTotal() {
-    // Get the current total price
-    var currentPriceElement = document.querySelector('.price--large');
-    var currentPriceText = currentPriceElement.textContent.trim();
-    var currentPrice = parseFloat(currentPriceText.replace(/[^\d.-]/g, ''));
-
-    // Add $200 to the total price
-    var newPrice = currentPrice + 200;
-
-    // Update the total price display
-    currentPriceElement.textContent = '$' + newPrice.toFixed(2);
-  }
-</script>
 
 
 
