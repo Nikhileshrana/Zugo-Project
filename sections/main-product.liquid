@@ -113,8 +113,8 @@
                   -%}
                 </div>
 
-              {%- assign new_price = product.price | plus: 20000 -%}
-<div>{{ new_price | money_with_currency }}</div>
+              {%- assign price = product.price | plus: 20000 -%}
+<div>{{ price | money_with_currency }}</div>
 
 
 
