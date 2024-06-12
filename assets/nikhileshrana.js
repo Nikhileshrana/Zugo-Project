@@ -3,37 +3,6 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
 
-  document.addEventListener('DOMContentLoaded', function() {
-    const button = document.getElementById('extra-cost-button');
-    const priceElement = document.querySelector('#price-{{ section.id }} .price--large .price__regular .price-item'); // Adjust this selector based on your actual price class/structure
-    let basePrice = parseFloat(priceElement.dataset.price); // Extract base price from data attribute or text content
-    const extraCost = 20000; // Assuming Shopify price is in cents (20000 cents = $200)
-    let isAdded = false;
-
-    // Function to format price in dollars
-    function formatPrice(cents) {
-      return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(cents / 100);
-    }
-
-    // Function to update price
-    function updatePrice() {
-      let totalPrice = basePrice;
-      if (isAdded) {
-        totalPrice += extraCost;
-      }
-      priceElement.innerText = formatPrice(totalPrice);
-    }
-
-    // Event listener for button
-    button.addEventListener('click', function() {
-      isAdded = !isAdded; // Toggle the extra cost
-      updatePrice();
-    });
-
-    // Initialize price on page load
-    updatePrice();
-  });
-
 
 
 
