@@ -5,7 +5,7 @@
       "custom_css": [
         ".cart__warnings > a,.cart__warnings > a:visited {color: white;}",
         ".button {text-transform: uppercase;}",
-        "a>svg{display:visible;}"
+        "a > svg {display: visible; color: #465158;}"
       ],
       "settings": {
         "color_scheme": "background-1",
