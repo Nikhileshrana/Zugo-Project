@@ -50,6 +50,12 @@
             "swatch_shape": "circle"
           }
         },
+        "tepo_product_options_product_app_block_r96RiP": {
+          "type": "shopify:\/\/apps\/tepo-product-options\/blocks\/product-app-block\/906ef57c-14e4-45d8-8b53-3ba7349d56a6",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "custom_liquid_UeBCAR": {
           "type": "custom_liquid",
           "settings": {
@@ -82,6 +88,7 @@
         "description",
         "custom_liquid_QJ8pkn",
         "variant_picker",
+        "tepo_product_options_product_app_block_r96RiP",
         "custom_liquid_UeBCAR",
         "quantity_selector",
         "buy_buttons",
