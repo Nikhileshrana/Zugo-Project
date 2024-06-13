@@ -25,31 +25,16 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
       const noEngraving = fieldset.querySelector('input[type="radio"][value="NO"]');
       const yesEngraving = fieldset.querySelector('input[type="radio"][value="YES"]');
       const engravingmyDiv = document.getElementById('product-zugo-engrave-option');
-
-
       // Proceed only if both radio buttons are found
       if (noEngraving && yesEngraving) {
-        // Create the div containing the textarea
-
-        // Initially hidden
-
-        // Append the div after the radio buttons fieldset
-        
-
-        // Ensure "YES" is selected by default
-
-
-        // Event listeners for radio buttons
         noEngraving.addEventListener('change', function() {
           if (this.checked) {
-         
             engravingmyDiv.style.display = 'none';
           }
         });
 
         yesEngraving.addEventListener('change', function() {
           if (this.checked) {
-        
             engravingmyDiv.style.display = 'block';
           }
         });
