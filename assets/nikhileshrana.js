@@ -25,7 +25,8 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
     fieldsets.forEach(fieldset => {
       const noEngraving = fieldset.querySelector('input[type="radio"][value="NO"]');
       const yesEngraving = fieldset.querySelector('input[type="radio"][value="YES"]');
-      const engravingmyDiv = fieldset.querySelector('#product-zugo-engrave-option');
+      const engravingDiv = document.getElementById('product-zugo-engrave-option');
+
 
       // Proceed only if both radio buttons are found
       if (noEngraving && yesEngraving) {
