@@ -90,7 +90,8 @@
       "custom_css": [
         ".slider-button > svg {height: 100%; width: 100%;}",
         ".thumbnail-list {opacity: 0.5;}",
-        ".product__title > h1 {font-size: 4.5rem;}"
+        ".product__title > h1 {font-size: 4.5rem;}",
+        "#product-zugo-engrave-option {border: 2px red solid; margin:0px; padding:0px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
