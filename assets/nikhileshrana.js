@@ -8,7 +8,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
 
-
+<script>
   document.addEventListener('DOMContentLoaded', function() {
     // Get all fieldsets with the engraving option
     const fieldsets = document.querySelectorAll('fieldset.js.product-form__input.product-form__input--pill');
@@ -18,28 +18,26 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
       const yesEngraving = fieldset.querySelector('input[type="radio"][value="YES"]');
       const engravingDiv = fieldset.querySelector('#product-zugo-engrave-option');
 
-      // Proceed only if all necessary elements are found
+      // Ensure all necessary elements are found
       if (noEngraving && yesEngraving && engravingDiv) {
-        // Event listener for radio buttons
-        fieldset.addEventListener('change', function(event) {
-          const selectedRadio = event.target;
-          
-          if (selectedRadio === yesEngraving) {
+        // Function to toggle engraving option visibility
+        function toggleEngravingOption() {
+          if (yesEngraving.checked) {
             engravingDiv.style.display = 'block';
-          } else if (selectedRadio === noEngraving) {
+          } else {
             engravingDiv.style.display = 'none';
           }
-        });
-
-        // Ensure initial state based on default checked radio button
-        if (yesEngraving.checked) {
-          engravingDiv.style.display = 'block';
-        } else {
-          engravingDiv.style.display = 'none';
         }
+
+        // Initial toggle based on default checked radio button
+        toggleEngravingOption();
+
+        // Event listener for any change in radio buttons within the fieldset
+        fieldset.addEventListener('change', toggleEngravingOption);
       }
     });
   });
+</script>
 
 
 
