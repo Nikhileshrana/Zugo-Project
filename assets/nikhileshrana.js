@@ -9,7 +9,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
     engravingDiv.innerHTML = `
       <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
       <p>Limit 50 characters including letters, spaces, and symbols</p>
-      <textarea id="engrave-back" maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[engrave-back]" form="product-form-template--20699447394339__main"></textarea>
+      <textarea id="engrave-back" maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Back Engraving Text : ]" form="product-form-template--20699447394339__main"></textarea>
     `;
     engravingDiv.style.display = 'none'; // Initially hidden
 
