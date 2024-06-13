@@ -7,12 +7,10 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
     // Create the div containing the textarea
     const engravingDiv = document.createElement('div');
     engravingDiv.innerHTML = `
-      <div id="product-dropdown-zugo-r">
       <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
       <p>Limit 50 characters including letters, spaces, and symbols</p>
       <textarea id="engrave-back" maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Back Engraving Text : ]" form="product-form-template--20699447394339__main"></textarea>
-      </div>
-      ;
+    `;
     engravingDiv.style.display = 'none'; // Initially hidden
 
     // Insert the div after the radio buttons fieldset
