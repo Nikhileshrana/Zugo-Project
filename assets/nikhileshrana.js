@@ -24,7 +24,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
           <div id="product-zugo-engrave-option">
             <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
             <p>Limit 50 characters including letters, spaces, and symbols</p>
-            <textarea maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Engrave-Back-Text : ]" form="product-form-{{ section.id }}"></textarea>
+            <textarea maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[engrave-back-text]" form="product-form-{{ section.id }}"></textarea>
           </div>
         `;
         engravingDiv.style.display = 'none'; // Initially hidden
