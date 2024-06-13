@@ -10,9 +10,9 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
           // if (yesEngraving.checked) {
-          //   engravingDiv.style.display = 'block';
+          //   engravingmyDiv.style.display = 'block';
           // } else {
-          //   engravingDiv.style.display = 'none';
+          //   engravingmyDiv.style.display = 'none';
           // }
 
 
@@ -51,12 +51,14 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
         noEngraving.addEventListener('change', function() {
           if (this.checked) {
             engravingDiv.style.display = 'none';
+            engravingmyDiv.style.display = 'none';
           }
         });
 
         yesEngraving.addEventListener('change', function() {
           if (this.checked) {
             engravingDiv.style.display = 'block';
+            engravingmyDiv.style.display = 'block';
           }
         });
       }
