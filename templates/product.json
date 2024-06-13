@@ -71,7 +71,7 @@
         "text_Lyaghf": {
           "type": "text",
           "settings": {
-            "text": "*This Section is under Testing* asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula{{ product.title }}sdfvsafasfdv",
+            "text": "*This Section is under Testing* {{ product.title }} is our product having strong build at affordable price.{{ product.vendor }} Ships it to your door.{{ product.metafields[\"shopify--discovery--product_recommendation\"].related_products_display.value }}Try These Product for More.",
             "text_style": "subtitle"
           }
         },
