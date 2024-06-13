@@ -68,6 +68,13 @@
             "show_gift_card_recipient": true
           }
         },
+        "text_Lyaghf": {
+          "type": "text",
+          "settings": {
+            "text": "*This Section is under Testing* asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula asdjfkl asdjfiasj dfkj sdoi;h fasludhf ulljrh auklfg auwergfjakw efgweukf awerhfgawrgf ahkw awiegf kuawegkfula{{ product.metafields[\"shopify--discovery--product_search_boost\"].queries | metafield_text }}{{ product.title }}",
+            "text_style": "subtitle"
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -85,6 +92,7 @@
         "custom_liquid_UeBCAR",
         "quantity_selector",
         "buy_buttons",
+        "text_Lyaghf",
         "share"
       ],
       "custom_css": [
