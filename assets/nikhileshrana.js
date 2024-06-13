@@ -29,7 +29,20 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
       // Proceed only if both radio buttons are found
       if (noEngraving && yesEngraving) {
-        
+        // Create the div containing the textarea
+        const engravingDiv = document.createElement('div');
+        engravingDiv.innerHTML = `
+          <div id="product-zugo-engrave-option">
+            <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
+            <p>Limit 50 characters including letters, spaces, and symbols</p>
+            <textarea maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Back Engraving Text : ]"></textarea>
+          </div>
+        `;
+        engravingDiv.style.display = 'none'; // Initially hidden
+
+        // Append the div after the radio buttons fieldset
+        fieldset.appendChild(engravingDiv);
+
         // Ensure "YES" is selected by default
         yesEngraving.checked = true;
         engravingDiv.style.display = 'block'; // Show the textarea by default
