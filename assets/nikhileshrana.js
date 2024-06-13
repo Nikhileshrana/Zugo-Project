@@ -8,7 +8,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
 
-<script>
+
   document.addEventListener('DOMContentLoaded', function() {
     // Get all fieldsets with the engraving option
     const fieldsets = document.querySelectorAll('fieldset.js.product-form__input.product-form__input--pill');
@@ -37,7 +37,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
       }
     });
   });
-</script>
+
 
 
 
