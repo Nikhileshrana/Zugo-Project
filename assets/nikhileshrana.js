@@ -1,6 +1,6 @@
 console.log("Developed By Nikhilesh Rana for more info click on -  https://www.nikhileshrana.tech  ");
 
-  document.addEventListener('DOMContentLoaded', function() {
+   document.addEventListener('DOMContentLoaded', function() {
     const noEngraving = document.getElementById('template--20699447394339__main-3-0');
     const yesEngraving = document.getElementById('template--20699447394339__main-3-1');
 
@@ -17,6 +17,9 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
     const fieldset = noEngraving.closest('fieldset');
     fieldset.appendChild(engravingDiv);
 
+    // Ensure "NO" is selected by default
+    noEngraving.checked = true;
+
     // Event listeners for radio buttons
     noEngraving.addEventListener('change', function() {
       if (this.checked) {
@@ -30,8 +33,6 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
       }
     });
   });
-
-
 
 
 
