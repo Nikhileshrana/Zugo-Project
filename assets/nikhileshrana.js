@@ -1,34 +1,36 @@
 console.log("Developed By Nikhilesh Rana for more info click on -  https://www.nikhileshrana.tech  ");
 
-
   document.addEventListener('DOMContentLoaded', function() {
     const noEngraving = document.getElementById('template--20699447394339__main-3-0');
     const yesEngraving = document.getElementById('template--20699447394339__main-3-1');
 
-    // Create a textarea element
-    const engravingText = document.createElement('textarea');
-    engravingText.id = 'engravingText';
-    engravingText.placeholder = 'Enter your custom engraving text here...';
-    engravingText.style.display = 'none'; // Initially hidden
-    engravingText.style.marginTop = '10px'; // Add some spacing
+    // Create the div containing the textarea
+    const engravingDiv = document.createElement('div');
+    engravingDiv.innerHTML = `
+      <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
+      <p>Limit 50 characters including letters, spaces, and symbols</p>
+      <textarea id="engrave-back" maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[engrave-back]" form="product-form-template--20699447394339__main"></textarea>
+    `;
+    engravingDiv.style.display = 'none'; // Initially hidden
 
-    // Insert the textarea after the radio buttons fieldset
+    // Insert the div after the radio buttons fieldset
     const fieldset = noEngraving.closest('fieldset');
-    fieldset.appendChild(engravingText);
+    fieldset.appendChild(engravingDiv);
 
     // Event listeners for radio buttons
     noEngraving.addEventListener('change', function() {
       if (this.checked) {
-        engravingText.style.display = 'none';
+        engravingDiv.style.display = 'none';
       }
     });
 
     yesEngraving.addEventListener('change', function() {
       if (this.checked) {
-        engravingText.style.display = 'block';
+        engravingDiv.style.display = 'block';
       }
     });
   });
+
 
 
 
