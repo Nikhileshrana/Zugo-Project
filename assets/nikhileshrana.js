@@ -1,7 +1,23 @@
 console.log("Developed By Nikhilesh Rana for more info click on -  https://www.nikhileshrana.tech  ");
 
 
+  document.addEventListener('DOMContentLoaded', function() {
+    const noEngraving = document.getElementById('noEngraving');
+    const yesEngraving = document.getElementById('yesEngraving');
+    const engravingText = document.getElementById('engravingText');
 
+    noEngraving.addEventListener('change', function() {
+      if (this.checked) {
+        engravingText.style.display = 'none';
+      }
+    });
+
+    yesEngraving.addEventListener('change', function() {
+      if (this.checked) {
+        engravingText.style.display = 'block';
+      }
+    });
+  });
 
 
 
