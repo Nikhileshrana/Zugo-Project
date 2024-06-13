@@ -91,7 +91,7 @@
         ".slider-button > svg {height: 100%; width: 100%;}",
         ".thumbnail-list {opacity: 0.5;}",
         ".product__title > h1 {font-size: 4.5rem;}",
-        "#product-zugo-engrave-option {border: 2px red solid; display: flex; flex-direction: column; height:100%;}"
+        "#product-zugo-engrave-option {border: 2px red solid; display: flex; flex-direction: column; height: 80%;}"
       ],
       "settings": {
         "enable_sticky_info": true,
