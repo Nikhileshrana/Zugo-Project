@@ -19,25 +19,28 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
       // Proceed only if all necessary elements are found
       if (noEngraving && yesEngraving && engravingDiv) {
-        // Ensure "YES" is selected by default and show the div
-        yesEngraving.checked = true;
-        engravingDiv.style.display = 'block'; // Show the textarea by default
-
-        // Event listeners for radio buttons
-        noEngraving.addEventListener('change', function() {
-          if (this.checked) {
+        // Event listener for radio buttons
+        fieldset.addEventListener('change', function(event) {
+          const selectedRadio = event.target;
+          
+          if (selectedRadio === yesEngraving) {
+            engravingDiv.style.display = 'block';
+          } else if (selectedRadio === noEngraving) {
             engravingDiv.style.display = 'none';
           }
         });
 
-        yesEngraving.addEventListener('change', function() {
-          if (this.checked) {
-            engravingDiv.style.display = 'block';
-          }
-        });
+        // Ensure initial state based on default checked radio button
+        if (yesEngraving.checked) {
+          engravingDiv.style.display = 'block';
+        } else {
+          engravingDiv.style.display = 'none';
+        }
       }
     });
   });
+
+
 
 
 
