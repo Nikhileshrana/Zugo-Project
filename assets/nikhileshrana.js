@@ -1,41 +1,45 @@
 console.log("Developed By Nikhilesh Rana for more info click on -  https://www.nikhileshrana.tech  ");
 
-   document.addEventListener('DOMContentLoaded', function() {
-    const noEngraving = document.getElementById('template--20699447394339__main-3-0');
-    const yesEngraving = document.getElementById('template--20699447394339__main-3-1');
+  document.addEventListener('DOMContentLoaded', function() {
+    // Get all fieldsets with the engraving option
+    const fieldsets = document.querySelectorAll('fieldset.js.product-form__input.product-form__input--pill');
 
-    // Create the div containing the textarea
-    const engravingDiv = document.createElement('div');
-    engravingDiv.innerHTML = `
-    <div id="product-zugo-engrave-option">
-      <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
-      <p>Limit 50 characters including letters, spaces, and symbols</p>
-      <textarea maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Back Engraving Text : ]" form="product-form-template--20699447394339__main"></textarea>
-    </div>
-    `;
-    engravingDiv.style.display = 'none'; // Initially hidden
+    fieldsets.forEach(fieldset => {
+      const noEngraving = fieldset.querySelector('input[type="radio"][value="NO"]');
+      const yesEngraving = fieldset.querySelector('input[type="radio"][value="YES"]');
 
-    // Insert the div after the radio buttons fieldset
-    const fieldset = noEngraving.closest('fieldset');
-    fieldset.appendChild(engravingDiv);
+      // Create the div containing the textarea
+      const engravingDiv = document.createElement('div');
+      engravingDiv.innerHTML = `
+        <div id="product-zugo-engrave-option">
+          <label for="engrave-back"><strong> Custom Back Engraving Message <br></strong></label>
+          <p>Limit 50 characters including letters, spaces, and symbols</p>
+          <textarea maxlength="50" placeholder="U mean everything to me. Babe!" name="properties[Back Engraving Text : ]" form="${fieldset.closest('form').id}"></textarea>
+        </div>
+      `;
+      engravingDiv.style.display = 'none'; // Initially hidden
 
-    // Ensure "NO" is selected by default
-    noEngraving.checked = true;
+      // Append the div after the radio buttons fieldset
+      fieldset.appendChild(engravingDiv);
 
-    // Event listeners for radio buttons
-    noEngraving.addEventListener('change', function() {
-      if (this.checked) {
-        engravingDiv.style.display = 'none';
-      }
-    });
+      // Ensure "YES" is selected by default
+      yesEngraving.checked = true;
+      engravingDiv.style.display = 'block'; // Show the textarea by default
 
-    yesEngraving.addEventListener('change', function() {
-      if (this.checked) {
-        engravingDiv.style.display = 'block';
-      }
+      // Event listeners for radio buttons
+      noEngraving.addEventListener('change', function() {
+        if (this.checked) {
+          engravingDiv.style.display = 'none';
+        }
+      });
+
+      yesEngraving.addEventListener('change', function() {
+        if (this.checked) {
+          engravingDiv.style.display = 'block';
+        }
+      });
     });
   });
-
 
 
 
