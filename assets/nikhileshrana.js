@@ -2,10 +2,21 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
   document.addEventListener('DOMContentLoaded', function() {
-    const noEngraving = document.getElementById('noEngraving');
-    const yesEngraving = document.getElementById('yesEngraving');
-    const engravingText = document.getElementById('engravingText');
+    const noEngraving = document.getElementById('template--20699447394339__main-3-0');
+    const yesEngraving = document.getElementById('template--20699447394339__main-3-1');
 
+    // Create a textarea element
+    const engravingText = document.createElement('textarea');
+    engravingText.id = 'engravingText';
+    engravingText.placeholder = 'Enter your custom engraving text here...';
+    engravingText.style.display = 'none'; // Initially hidden
+    engravingText.style.marginTop = '10px'; // Add some spacing
+
+    // Insert the textarea after the radio buttons fieldset
+    const fieldset = noEngraving.closest('fieldset');
+    fieldset.appendChild(engravingText);
+
+    // Event listeners for radio buttons
     noEngraving.addEventListener('change', function() {
       if (this.checked) {
         engravingText.style.display = 'none';
