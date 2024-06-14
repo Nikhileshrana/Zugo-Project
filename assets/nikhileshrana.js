@@ -14,6 +14,9 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
       const yesEngraving = fieldset.querySelector('input[type="radio"][value="YES"]');
       const engravingmyDiv = document.getElementById('product-zugo-engrave-option');
       // Proceed only if both radio buttons are found
+    
+      engravingmyDiv.style.display = 'none';
+      
       if (noEngraving && yesEngraving) {
         noEngraving.addEventListener('change', function() {
           if (this.checked) {
