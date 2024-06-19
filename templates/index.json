@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "custom_liquid_cXPDdn": {
@@ -150,7 +159,7 @@
             "heading": "Crown of Success",
             "heading_size": "h2",
             "subheading": "",
-            "button_label": "SIDDHARTH COLLAB",
+            "button_label": "SIDDHARTHA COLLAB",
             "link": "shopify:\/\/products\/crown-of-success",
             "button_style_secondary": true,
             "box_align": "bottom-left",
