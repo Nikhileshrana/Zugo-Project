@@ -50,12 +50,18 @@
               
               <img
                 srcset="
-                
+
+
+                  {% if article.image.width >= 350 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                  {% if article.image.width >= 750 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                  {% if article.image.width >= 1100 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                  {% if article.image.width >= 1500 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                  {% if article.image.width >= 2200 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                  {% if article.image.width >= 3000 %}{{ article.image | image_url: width: 3000 }} 3000w,{% endif %}
                 
                   
                 
-                {% if article.image.width <= 3000 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
-                {% if article.image.width >= 3000 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+
                 
                   {{ article.image | image_url }} {{ article.image.width }}w
                 "
