@@ -51,6 +51,9 @@
     },
     "featured_collection_cb3fKq": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
         "title": "SHOP THIS STORY",
         "heading_size": "h1",
