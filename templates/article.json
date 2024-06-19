@@ -44,7 +44,7 @@
         "content"
       ],
       "custom_css": [
-        ".article-template__content img{width:100%;}"
+        "img {width: 100%;}"
       ],
       "settings": {
       }
