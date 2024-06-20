@@ -52,7 +52,9 @@
     "featured_collection_cb3fKq": {
       "type": "featured-collection",
       "custom_css": [
-        "h2 {text-align: center; font-size: 40px;}"
+        "h2 {text-align: center; font-size: 40px;}",
+        "@media screen and (max-width: 480px) {slider-component {width:300px; }}",
+        "slider-component {width: 700px;}"
       ],
       "settings": {
         "title": "SHOP THIS STORY",
@@ -76,8 +78,8 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 24
       }
     },
     "slideshow_bnbnft": {
