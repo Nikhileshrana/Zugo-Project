@@ -53,8 +53,7 @@
       "type": "featured-collection",
       "custom_css": [
         "h2 {text-align: center; font-size: 40px;}",
-        "@media screen and (max-width: 480px) {slider-component {width:300px; }}",
-        "slider-component {width: 700px;}"
+        "slider-component {width: 70vw;}"
       ],
       "settings": {
         "title": "SHOP THIS STORY",
