@@ -62,7 +62,7 @@
         "custom_liquid_UeBCAR": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n        textarea\n        {\n        color : #5C6A74;\n        border:2px #5C6A74 solid;\n        background-color : #FFFEF7;\n        width : 100%;\n        resize: none;\n        height:48px;\n        padding: 0px;\n        margin: 0px;\n        padding-bottom: 0px;\n        font-size:medium;\n        font-family:var(--font-body-family);\npadding-left:5px;\n        }\n ::placeholder \n        {\n            color: #b7bbbf;\n        }\n\n\n#engrave>p{margin:0px;}\n\n        <\/style>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        <div id=\"engrave\">\n                <label for=\"location\"><strong>Enter Location Coordinates<\/strong><\/label>\n                <p>Please refer to our video for finding location coorindates using google maps. Separate coorindates with a comma.<\/p>                \n                <textarea style=\"height: 45px;\" id=\"location\"  maxlength=\"30\"\n placeholder=\" 19.160710, 72.855366\" name=\"properties[location]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"product-zugo-engrave-option\">\n            <label for=\"engrave-back\"><strong> Custom Back Engraving Message <br><\/strong><\/label>\n            <p>Limit 50 characters including letters, spaces, and symbols<\/p>\n            <textarea maxlength=\"50\" placeholder=\"U mean everything to me. Babe!\" id=\"engrave-back\" name=\"properties[engrave-back]\" form=\"product-form-{{ section.id }}\"><\/textarea>\n          <\/div>\n\n\n\n\n\n\n        <div id=\"engrave\">\n                <label for=\"custom-card-msg\"><strong>Complementary Gift Card Message<\/strong><\/label>\n                <p>Limit 500 characters including letters, spaces, and symbols<\/p>                \n                <textarea style=\"height: 155px;\" id=\"custom-card-msg\"  maxlength=\"500\"\n placeholder=\"Your presence brings me joy,comfort and endless hapiness. You are my rock, my confidant, and my greatest support.         \n\n-Shamy\" name=\"properties[custom-card-msg]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div>"
+            "custom_liquid": "<style>\n        textarea\n        {\n        color : #5C6A74;\n        border:2px #5C6A74 solid;\n        background-color : #FFFEF7;\n        width : 100%;\n        resize: none;\n        height:48px;\n        padding: 0px;\n        margin: 0px;\n        padding-bottom: 0px;\n        font-size:medium;\n        font-family:var(--font-body-family);\npadding-left:5px;\n        }\n ::placeholder \n        {\n            color: #b7bbbf;\n        }\n\n\n#engrave>p{margin:0px;}\n\n        <\/style>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        \n\n\n\n\n\n\n\n\n\n\n\n<div id=\"product-zugo-engrave-option\">\n            <label for=\"engrave-back\"><strong> Custom Back Engraving Message <br><\/strong><\/label>\n            <p>Limit 50 characters including letters, spaces, and symbols<\/p>\n            <textarea maxlength=\"50\" placeholder=\"U mean everything to me. Babe!\" id=\"engrave-back\" name=\"properties[engrave-back]\" form=\"product-form-{{ section.id }}\"><\/textarea>\n          <\/div>\n\n\n\n\n\n\n        <div id=\"engrave\">\n                <label for=\"custom-card-msg\"><strong>Complementary Gift Card Message<\/strong><\/label>\n                <p>Limit 500 characters including letters, spaces, and symbols<\/p>                \n                <textarea style=\"height: 155px;\" id=\"custom-card-msg\"  maxlength=\"500\"\n placeholder=\"Your presence brings me joy,comfort and endless hapiness. You are my rock, my confidant, and my greatest support.         \n\n-Shamy\" name=\"properties[custom-card-msg]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div>"
           }
         },
         "quantity_selector": {
@@ -89,6 +89,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "custom_liquid_3tCFMQ": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div>\n                <label for=\"location\"><strong>Enter Location Coordinates<\/strong><\/label>\n                <p>Please refer to our video for finding location coorindates using google maps. Separate coorindates with a comma.<\/p>                \n                <input\nrequired\nstyle=\"height: 45px;\" id=\"location\"  maxlength=\"30\"\n placeholder=\" 19.160710, 72.855366\" name=\"properties[location]\"\n                    form=\"product-form-{{ section.id }}\"><\/input><\/div>"
+          }
         }
       },
       "block_order": [
@@ -102,7 +108,8 @@
         "quantity_selector",
         "buy_buttons",
         "text_Lyaghf",
-        "share"
+        "share",
+        "custom_liquid_3tCFMQ"
       ],
       "custom_css": [
         ".slider-button > svg {height: 100%; width: 100%;}",
