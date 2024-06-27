@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -120,7 +129,7 @@
         "button_iTf3nf"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Chain_length_guide_f_model.png",
+        "image": "shopify:\/\/shop_images\/W_multiple_chain_length_guide_updated.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -167,7 +176,7 @@
         "button_L74X3h"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Chain_length_guide_m_model_62668f1a-62ce-4cab-894c-f0dfa2f1c81c.png",
+        "image": "shopify:\/\/shop_images\/M_multiple_chain_length_guide_updated.png",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
