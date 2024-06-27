@@ -42,6 +42,7 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 document.addEventListener("DOMContentLoaded", function() {
     const productTitle = document.querySelector('.product__title h1').textContent;
     const targetElement = document.getElementById('nikhileshranatestingspotoneandtwo');
+    
 
     if (productTitle === 'Forever Spot S1' || productTitle === 'Forever Spot S2') {
         targetElement.style.display = 'block';
@@ -49,6 +50,13 @@ document.addEventListener("DOMContentLoaded", function() {
         targetElement.style.display = 'none';
     }
 });
+
+
+
+const textarea = targetElement.querySelector('textarea');
+    if (textarea && textarea.value.trim() === '') {
+        window.alert('Coordinates are not entered');
+    }
 
 //ends here 
 
