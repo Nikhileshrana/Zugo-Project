@@ -37,6 +37,22 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
 
+//program for product s1 and s2
+
+document.addEventListener("DOMContentLoaded", function() {
+    const productTitle = document.querySelector('.product__title h1').textContent;
+    const targetElement = document.getElementById('nikhileshranatestingspotoneandtwo');
+
+    if (productTitle === 'Forever Spot S1' || productTitle === 'Forever Spot S2') {
+        targetElement.style.display = 'block';
+    } else {
+        targetElement.style.display = 'none';
+    }
+});
+
+//ends here 
+
+
 
 
 
