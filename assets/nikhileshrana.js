@@ -2,6 +2,19 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 
 
 
+//Instagram Tab
+
+let instagram_new_win = document.getElementById('HeaderMenu-instagram');
+instagram_new_win.setAttribute('target', '_blank');
+//ends here
+
+
+
+
+
+
+
+
 // Program for zoom in preview of the product image 
 
 
@@ -106,21 +119,13 @@ const textarea = targetElementnikhileshrana.querySelector('textarea');
 
 
 
-//Instagram Tab
-
-let instagram_new_win = document.getElementById('HeaderMenu-instagram');
-instagram_new_win.setAttribute('target', '_blank');
 
 
-function goBack_zugo() {window.history.back();}
 
 
+//go back 
+function goBack_zugo(){window.history.back();}
 //ends here
-
-
-
-
-
 
 
 
