@@ -137,7 +137,7 @@ function goBack_zugo(){window.history.back();}
 //Product Image Click and opens in new tab
 
 
-document.querySelector('.product__media-item').addEventListener('click', function() {
+document.querySelector('.product__media').addEventListener('click', function() {
     // Get the image source
     var imgElement = document.querySelector('.product__media > img');
     if (imgElement) {
