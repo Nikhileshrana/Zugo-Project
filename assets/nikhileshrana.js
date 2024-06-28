@@ -40,20 +40,20 @@ console.log("Developed By Nikhilesh Rana for more info click on -  https://www.n
 //program for product s1 and s2
 
 document.addEventListener("DOMContentLoaded", function() {
-    const productTitle = document.querySelector('.product__title h1').textContent;
-    const targetElement = document.getElementById('nikhileshranatestingspotoneandtwo');
+    const productTitlenikhileshrana = document.querySelector('.product__title h1').textContent;
+    const targetElementnikhileshrana = document.getElementById('nikhileshranatestingspotoneandtwo');
     
 
-    if (productTitle === 'Forever Spot S1' || productTitle === 'Forever Spot S2') {
-        targetElement.style.display = 'block';
+    if (productTitlenikhileshrana === 'Forever Spot S1' || productTitlenikhileshrana === 'Forever Spot S2') {
+        targetElementnikhileshrana.style.display = 'block';
     } else {
-        targetElement.style.display = 'none';
+        targetElementnikhileshrana.style.display = 'none';
     }
 });
 
 
 
-const textarea = targetElement.querySelector('textarea');
+const textarea = targetElementnikhileshrana.querySelector('textarea');
     if (textarea && textarea.value.trim() === '') {
         window.alert('Coordinates are not entered');
     }
