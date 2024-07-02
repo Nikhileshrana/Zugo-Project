@@ -77,6 +77,102 @@
         "padding_bottom": 52
       }
     },
+    "slideshow_CjEfgY": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_cgGztW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
+            "heading": "Personalised Meaningful Jewellery",
+            "heading_size": "h2",
+            "subheading": "<strong>Custom coorindates amulet to mark the spot.<\/strong>",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/products\/forever-spot-s2",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_CzMm8g": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_cgGztW",
+        "slide_CzMm8g"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_xz3wGa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DaCXxU": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_Jeqqep": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_3LWFNM": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DaCXxU",
+        "text_Jeqqep",
+        "button_3LWFNM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_hkQ4Cb": {
       "type": "rich-text",
       "blocks": {
@@ -818,6 +914,8 @@
     "custom_liquid_cXPDdn",
     "image_banner_N6h4iC",
     "custom_liquid_yxTFeV",
+    "slideshow_CjEfgY",
+    "rich_text_xz3wGa",
     "rich_text_hkQ4Cb",
     "rich_text_D6jQVx",
     "rich_text_BNcP98",
