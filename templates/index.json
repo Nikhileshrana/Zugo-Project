@@ -53,6 +53,9 @@
         "text_Y4YtPp",
         "buttons_AcPU4M"
       ],
+      "custom_css": [
+        "h2 , a {color : white;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
         "image_overlay_opacity": 0,
