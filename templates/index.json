@@ -77,6 +77,54 @@
         "padding_bottom": 52
       }
     },
+    "image_banner_GxEwPf": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_ebUNGQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Forever Spot Amulet",
+            "heading_size": "h2"
+          }
+        },
+        "text_nh6w6W": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_KWch66": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/products\/forever-spot-s2",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ebUNGQ",
+        "text_nh6w6W",
+        "buttons_KWch66"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zugo_backgrond_front_page.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "slideshow_CjEfgY": {
       "type": "slideshow",
       "blocks": {
@@ -915,6 +963,7 @@
     "custom_liquid_cXPDdn",
     "image_banner_N6h4iC",
     "custom_liquid_yxTFeV",
+    "image_banner_GxEwPf",
     "slideshow_CjEfgY",
     "rich_text_xz3wGa",
     "rich_text_hkQ4Cb",
