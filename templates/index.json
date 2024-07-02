@@ -18,24 +18,24 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_bVqrRB": {
+    "image_banner_N6h4iC": {
       "type": "image-banner",
       "blocks": {
-        "heading_HPecQa": {
+        "heading_wUyQU3": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "Personalised Meaningul Jewellery",
+            "heading_size": "h2"
           }
         },
-        "text_8k6bV8": {
+        "text_Y4YtPp": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "Custom coordinates amulet to mark the spot.",
             "text_style": "body"
           }
         },
-        "buttons_dgg8n8": {
+        "buttons_AcPU4M": {
           "type": "buttons",
           "settings": {
             "button_label_1": "SHOP NOW",
@@ -48,15 +48,15 @@
         }
       },
       "block_order": [
-        "heading_HPecQa",
-        "text_8k6bV8",
-        "buttons_dgg8n8"
+        "heading_wUyQU3",
+        "text_Y4YtPp",
+        "buttons_AcPU4M"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
@@ -815,7 +815,7 @@
   },
   "order": [
     "custom_liquid_cXPDdn",
-    "image_banner_bVqrRB",
+    "image_banner_N6h4iC",
     "custom_liquid_yxTFeV",
     "rich_text_hkQ4Cb",
     "rich_text_D6jQVx",
