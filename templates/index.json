@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         "h2,a {color: white;}",
-        "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 100vh;}"
+        "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
