@@ -127,48 +127,6 @@
     },
     "slideshow_CjEfgY": {
       "type": "slideshow",
-      "blocks": {
-        "slide_cgGztW": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
-            "heading": "Personalised Meaningful Jewellery",
-            "heading_size": "h2",
-            "subheading": "<strong>Custom coorindates amulet to mark the spot.<\/strong>",
-            "button_label": "SHOP NOW",
-            "link": "shopify:\/\/products\/forever-spot-s2",
-            "button_style_secondary": true,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_CzMm8g": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Zugo_backgrond_front_page.png",
-            "heading": "Forever Spot Amulet",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "SHOP NOW",
-            "link": "shopify:\/\/products\/forever-spot-s2",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_cgGztW",
-        "slide_CzMm8g"
-      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
