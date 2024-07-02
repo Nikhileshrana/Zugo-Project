@@ -18,6 +18,54 @@
         "padding_bottom": 0
       }
     },
+    "image_banner_bVqrRB": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_HPecQa": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_8k6bV8": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_dgg8n8": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/products\/forever-spot-s2",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HPecQa",
+        "text_8k6bV8",
+        "buttons_dgg8n8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "custom_liquid_yxTFeV": {
       "type": "custom-liquid",
       "disabled": true,
@@ -767,6 +815,7 @@
   },
   "order": [
     "custom_liquid_cXPDdn",
+    "image_banner_bVqrRB",
     "custom_liquid_yxTFeV",
     "rich_text_hkQ4Cb",
     "rich_text_D6jQVx",
