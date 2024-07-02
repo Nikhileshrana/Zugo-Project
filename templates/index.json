@@ -54,7 +54,8 @@
         "buttons_AcPU4M"
       ],
       "custom_css": [
-        "h2,a {color: white;}"
+        "h2,a {color: white;}",
+        "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 100vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
@@ -67,7 +68,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "custom_liquid_yxTFeV": {
@@ -115,7 +116,8 @@
         "buttons_KWch66"
       ],
       "custom_css": [
-        "h2 , a {color : white;}"
+        "h2,a {color: white;}",
+        "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 60vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_backgrond_front_page.png",
@@ -128,7 +130,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "slideshow_CjEfgY": {
