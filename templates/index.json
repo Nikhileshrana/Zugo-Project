@@ -119,7 +119,7 @@
       "custom_css": [
         "h2,a {color: white;}",
         "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 80vh;}",
-        "@media (max-width: 450px) {#Banner-template--20699447230499__image_banner_GxEwPf {width: 100%; } #Banner-template--20699447230499__image_banner_GxEwPf > div > img {object-fit: fill; }}"
+        "@media (max-width: 450px) {#Banner-template--20699447230499__image_banner_GxEwPf {width: 100%; } #Banner-template--20699447230499__image_banner_GxEwPf > div > img {object-fit: cover; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_backgrond_front_page.png",
