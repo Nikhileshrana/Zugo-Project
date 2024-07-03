@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const originalImageSrc2 = nikhileshranazugoworktestingthis12.src;
   
   const alternativeImageSrc = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/IMG_011.jpg?v=1719990696';
-  const alternativeImageSrc2 = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/IMG_011.jpg?v=1719990696';
+  const alternativeImageSrc2 = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/022.jpg?v=1719991397';
 
 
   function updateImageSource() {
