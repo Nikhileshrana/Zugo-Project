@@ -117,7 +117,7 @@
       ],
       "custom_css": [
         "h2,a {color: white;}",
-        "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 60vh;}"
+        "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 80vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_backgrond_front_page.png",
