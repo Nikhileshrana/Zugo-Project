@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   const originalImageSrc = nikhileshranazugoworktestingthis2.src;
-  const alternativeImageSrc = 'https://images.unsplash.com/photo-1576158113928-4c240eaaf360?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D';
+  const alternativeImageSrc = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/IMG_011.jpg?v=1719990696';
 
 
   function updateImageSource() {
