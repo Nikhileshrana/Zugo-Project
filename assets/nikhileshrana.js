@@ -45,6 +45,70 @@ if (window.innerWidth > 600) {
 
 
 
+//Home Image change for Mobile View
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div.banner__media > img');
+  
+  // Check if the element is correctly selected
+  if (!mynewimageElement) {
+    console.error('Image element not found!');
+    return;
+  }
+
+  const originalImageSrc = mynewimageElement.src;
+  const alternativeImageSrc = 'https://www.nikhileshrana.tech/logo.svg';
+
+
+  console.log("Hello Bitch Cheking this shit");
+  function updateImageSource() {
+    if (window.innerWidth < 450) {
+      mynewimageElement.src = alternativeImageSrc;
+    } else {
+      mynewimageElement.src = originalImageSrc;
+    }
+  }
+
+  // Initial check
+  updateImageSource();
+
+  // Update on window resize
+  window.addEventListener('resize', updateImageSource);
+});
+
+
+
+
+
+
+
+//Ends Here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -140,48 +204,7 @@ function goBack_zugo(){window.history.back();}
 
 
 
-//Home Image change for Mobile View
 
-
-
-
-
-document.addEventListener('DOMContentLoaded', function() {
-  const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div.banner__media > img');
-  
-  // Check if the element is correctly selected
-  if (!mynewimageElement) {
-    console.error('Image element not found!');
-    return;
-  }
-
-  const originalImageSrc = mynewimageElement.src;
-  const alternativeImageSrc = 'https://www.nikhileshrana.tech/logo.svg';
-
-
-  console.log("Hello Bitch Cheking this shit");
-  function updateImageSource() {
-    if (window.innerWidth < 450) {
-      mynewimageElement.src = alternativeImageSrc;
-    } else {
-      mynewimageElement.src = originalImageSrc;
-    }
-  }
-
-  // Initial check
-  updateImageSource();
-
-  // Update on window resize
-  window.addEventListener('resize', updateImageSource);
-});
-
-
-
-
-
-
-
-//Ends Here
 
 
 
