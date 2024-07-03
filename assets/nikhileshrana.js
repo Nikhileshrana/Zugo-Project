@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-      nikhileshranazugoworktestingthis12.src = alternativeImageSrc;
+      nikhileshranazugoworktestingthis12.src = alternativeImageSrc2;
       nikhileshranazugoworktestingthis12.removeAttribute('srcset');
 
 
