@@ -158,6 +158,8 @@ document.addEventListener('DOMContentLoaded', function() {
   const originalImageSrc = mynewimageElement.src;
   const alternativeImageSrc = 'https://www.nikhileshrana.tech/logo.svg';
 
+
+  console.log("Hello Bitch Cheking this shit");
   function updateImageSource() {
     if (window.innerWidth < 450) {
       mynewimageElement.src = alternativeImageSrc;
