@@ -144,14 +144,24 @@ function goBack_zugo(){window.history.back();}
 
 
 
+document.addEventListener('DOMContentLoaded', function() {
   const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div > img');
+  
+  // Check if the element is correctly selected
+  if (!mynewimageElement) {
+    console.error('Image element not found!');
+    return;
+  }
+
   const originalImageSrc = mynewimageElement.src;
-  const alternativeImageSrc = 'https://zugo.co.in/cdn/shop/files/Siddhartha_collaboration_peach_crown_of_success.png?v=1718014733&width=3840';
+  const alternativeImageSrc = 'https://www.nikhileshrana.tech/logo.svg';
 
   function updateImageSource() {
     if (window.innerWidth < 450) {
+      console.log('Window width is less than 450px. Changing image source.');
       mynewimageElement.src = alternativeImageSrc;
     } else {
+      console.log('Window width is 450px or more. Reverting image source.');
       mynewimageElement.src = originalImageSrc;
     }
   }
@@ -161,7 +171,7 @@ function goBack_zugo(){window.history.back();}
 
   // Update on window resize
   window.addEventListener('resize', updateImageSource);
-
+});
 
 //Ends Here
 
