@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
   function updateImageSource() {
+    console.log("IMage Update Function running")
     if (window.innerWidth < 450) {
       mynewimageElement.src = alternativeImageSrc;
     } else {
