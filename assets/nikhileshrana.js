@@ -144,8 +144,10 @@ function goBack_zugo(){window.history.back();}
 
 
 
+
+
 document.addEventListener('DOMContentLoaded', function() {
-  const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div > img');
+  const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div.banner__media > img');
   
   // Check if the element is correctly selected
   if (!mynewimageElement) {
@@ -158,10 +160,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function updateImageSource() {
     if (window.innerWidth < 450) {
-      console.log('Window width is less than 450px. Changing image source.');
       mynewimageElement.src = alternativeImageSrc;
     } else {
-      console.log('Window width is 450px or more. Reverting image source.');
       mynewimageElement.src = originalImageSrc;
     }
   }
@@ -172,6 +172,12 @@ document.addEventListener('DOMContentLoaded', function() {
   // Update on window resize
   window.addEventListener('resize', updateImageSource);
 });
+
+
+
+
+
+
 
 //Ends Here
 
