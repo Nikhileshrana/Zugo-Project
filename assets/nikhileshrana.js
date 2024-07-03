@@ -59,21 +59,21 @@ document.addEventListener('DOMContentLoaded', function() {
     return;
   }
 
-  // Select the nested div and img elements
+
   const nikhileshranazugoworktestingthis1 = mynewimageElement.querySelector('div.banner__media');
   const nikhileshranazugoworktestingthis2 = nikhileshranazugoworktestingthis1.querySelector('img');
 
-  // Ensure the img element is selected
+
   if (!nikhileshranazugoworktestingthis2) {
     console.error('Image element not found!');
     return;
   }
 
-  // Get the original image source
-  const originalImageSrc = nikhileshranazugoworktestingthis2.src;
-  const alternativeImageSrc = 'https://www.nikhileshrana.tech/logo.svg';
 
-  // Function to update image source based on window width
+  const originalImageSrc = nikhileshranazugoworktestingthis2.src;
+  const alternativeImageSrc = 'https://images.unsplash.com/photo-1576158113928-4c240eaaf360?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D';
+
+
   function updateImageSource() {
     if (window.innerWidth < 450) {
       nikhileshranazugoworktestingthis2.src = alternativeImageSrc;
