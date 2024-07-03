@@ -134,6 +134,52 @@ function goBack_zugo(){window.history.back();}
 
 
 
+
+
+
+
+
+
+//Home Image change for Mobile View
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  const imageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC > div > img');
+  const originalImageSrc = imageElement.src;
+  const alternativeImageSrc = 'https://zugo.co.in/cdn/shop/files/Siddhartha_collaboration_peach_crown_of_success.png?v=1718014733&width=3840';
+
+  function updateImageSource() {
+    if (window.innerWidth < 450) {
+      imageElement.src = alternativeImageSrc;
+    } else {
+      imageElement.src = originalImageSrc;
+    }
+  }
+
+  // Initial check
+  updateImageSource();
+
+  // Update on window resize
+  window.addEventListener('resize', updateImageSource);
+});
+
+
+
+
+//Ends Here
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Product Image Click and opens in new tab
 
 
