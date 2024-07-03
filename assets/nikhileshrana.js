@@ -79,8 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
       nikhileshranazugoworktestingthis2.src = alternativeImageSrc;
       nikhileshranazugoworktestingthis2.removeAttribute('srcset');
     } else {
-      nikhileshranazugoworktestingthis2.src = originalImageSrc;
-      nikhileshranazugoworktestingthis2.removeAttribute('srcset');
+      console.log("Desktop View");
     }
   }
 
