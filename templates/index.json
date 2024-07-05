@@ -82,6 +82,39 @@
         "padding_bottom": 52
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}",
+        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
+        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "womens-collections",
+        "products_to_show": 15,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_GxEwPf": {
       "type": "image-banner",
       "blocks": {
@@ -370,39 +403,6 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "custom_css": [
-        "@media (max-height: 350px) {ul > li, .card-wrapper {width: 50%; display: flex; justify-content: center; }}",
-        ".slider-buttons > button > svg {height: 3%; width: 100%;}",
-        "@media (max-width: 1025px) {.slider-buttons > :nth-child(1) {position: absolute; right: 85%; bottom: 3%; height: 100%; } .slider-buttons > :nth-child(3) {position: absolute; left: 85%; bottom: 3%; height: 100%; }}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "womens-collections",
-        "products_to_show": 15,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 0
       }
     },
     "rich_text_ejgdJ3": {
@@ -931,6 +931,7 @@
     "custom_liquid_cXPDdn",
     "image_banner_N6h4iC",
     "custom_liquid_yxTFeV",
+    "featured_collection",
     "image_banner_GxEwPf",
     "slideshow_CjEfgY",
     "rich_text_xz3wGa",
@@ -938,7 +939,6 @@
     "rich_text_D6jQVx",
     "rich_text_BNcP98",
     "slideshow_FFNdyc",
-    "featured_collection",
     "rich_text_ejgdJ3",
     "slideshow_XNWwhL",
     "slideshow_yTTiMx",
