@@ -25,6 +25,8 @@ function replaceSpanWithImage() {
   if (window.innerWidth > 450) {
     const imgElement = document.createElement('img');
     imgElement.src = imageUrl;
+    imgElement.style.height = '100px';
+    imgElement.style.width = '50px';
     headerLink.replaceChild(imgElement, spanElement);
   }
 }
