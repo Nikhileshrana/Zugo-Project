@@ -29,7 +29,7 @@ function replaceSpanWithImage() {
     imgElement.style.width = '75px';
     imgElement.style.position = 'absolute';
     imgElement.style.top = '0px';
-    imgElement.style.right = '50%';
+    imgElement.style.right = '45%';
     imgElement.style.padding = '15px';
     headerLink.replaceChild(imgElement, spanElement);
   }
