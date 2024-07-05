@@ -11,6 +11,35 @@ instagram_new_win.setAttribute('target', '_blank');
 
 
 
+// Header Logo Change as it ewxit mobile width
+
+
+
+const imageUrl = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/Zugo_logo_png_no_background.png?v=1720187496';
+
+// Function to replace span with img
+function replaceSpanWithImage() {
+  const headerLink = document.querySelector('.header__heading-link');
+  const spanElement = headerLink.querySelector('span');
+  
+  if (window.innerWidth > 450) {
+    const imgElement = document.createElement('img');
+    imgElement.src = imageUrl;
+    headerLink.replaceChild(imgElement, spanElement);
+  }
+}
+
+replaceSpanWithImage();
+window.addEventListener('resize', replaceSpanWithImage);
+
+
+
+
+//ends here
+
+
+
+
 
 
 
