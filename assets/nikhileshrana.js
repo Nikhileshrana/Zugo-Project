@@ -22,7 +22,7 @@ function replaceSpanWithImage() {
   const headerLink = document.querySelector('.header__heading-link');
   const spanElement = headerLink.querySelector('span');
   
-  if (window.innerWidth > 450) {
+  if (window.innerWidth > 1024) {
     const imgElement = document.createElement('img');
     imgElement.src = imageUrl;
     imgElement.style.height = '90px';
