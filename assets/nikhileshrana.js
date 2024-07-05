@@ -26,7 +26,7 @@ function replaceSpanWithImage() {
     const imgElement = document.createElement('img');
     imgElement.src = imageUrl;
     imgElement.style.height = '100px';
-    imgElement.style.width = '50px';
+    imgElement.style.width = '80px';
     headerLink.replaceChild(imgElement, spanElement);
   }
 }
