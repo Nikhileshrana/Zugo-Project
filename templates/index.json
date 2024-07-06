@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         ".banner__box {position: absolute; right: 50%;}",
-        "h2 {color: #404649; font-size: 6rem; position: relative;}",
+        "h2 {color: #404649; font-size: 5.5rem; position: relative;}",
         "a {background-color: #404649; color: white; padding-top: 0.2em;}",
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
         "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; left: 0%; } h2 {color: #404649; font-size: 3rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
