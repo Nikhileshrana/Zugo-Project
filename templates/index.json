@@ -57,7 +57,7 @@
         "h2 {color: #404649; font-size: 5.5rem; position: relative;}",
         "a {background-color: #404649; color: white; padding-top: 0.2em;}",
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
-        "@media (min-width: 768px) {.banner__box {position: absolute; right: 55vw; bottom: 25%; padding: 0px; margin: 0px; } h2 {color: #404649; font-size: 3.8vw; }}",
+        "@media (min-width: 768px) {.banner__box {position: absolute; right: 55vw; bottom: 25%; padding: 0px; margin: 0px; } h2 {color: #404649; font-size: 3.7vw; }}",
         "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; } h2 {color: #404649; font-size: 3rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
       ],
       "settings": {
