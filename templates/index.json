@@ -57,7 +57,7 @@
         "h2 {color: #404649; font-size: 5.5rem; position: relative;}",
         "a {background-color: #404649; color: white; padding-top: 0.2em;}",
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
-        "@media (min-width: 1024px) {.banner__box {position: absolute; right: 58.9%; bottom: 10%; padding:0px; margin:0px; border: 2px red solid; }}",
+        "@media (min-width: 1024px) {.banner__box {position: absolute; right: 60%; bottom: 10%; padding: 0px; margin: 0px; border: 2px red solid; }}",
         "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; left: 0%; } h2 {color: #404649; font-size: 3rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
       ],
       "settings": {
