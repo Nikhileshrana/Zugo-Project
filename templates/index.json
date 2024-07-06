@@ -54,7 +54,7 @@
         "buttons_AcPU4M"
       ],
       "custom_css": [
-        ".banner__box {position: absolute; right: 55%;}",
+        ".banner__box {position: absolute; right: 53.9%; border:2px red solid;}",
         "h2 {color: #404649; font-size: 5.5rem; position: relative;}",
         "a {background-color: #404649; color: white; padding-top: 0.2em;}",
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
