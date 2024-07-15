@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -87,6 +96,146 @@
         "full_width": true,
         "padding_top": 32,
         "padding_bottom": 32
+      }
+    },
+    "rich_text_PHhbaP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kpamWQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Core Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_78rx3T": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The core of you.<\/p>"
+          }
+        },
+        "button_UHAxCa": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kpamWQ",
+        "text_78rx3T",
+        "button_UHAxCa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_RHfhnW": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "special-amulets",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_dTxqJM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MdKPCT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Custom Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_Cm6ryK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For those unique moments...<\/p>"
+          }
+        },
+        "button_pTneQf": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_MdKPCT",
+        "text_Cm6ryK",
+        "button_pTneQf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_jKrmqV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "custom-collection",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_banner_JnCCfH": {
@@ -549,6 +698,10 @@
     "main",
     "rich_text_ePFgDW",
     "rich_text_XP4xLF",
+    "rich_text_PHhbaP",
+    "featured_collection_RHfhnW",
+    "rich_text_dTxqJM",
+    "featured_collection_jKrmqV",
     "image_banner_JnCCfH",
     "slideshow_YBRr7D",
     "featured_collection_Nx6C4k",
