@@ -105,7 +105,7 @@
           "type": "heading",
           "settings": {
             "heading": "Core Collection",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_78rx3T": {
@@ -175,7 +175,7 @@
           "type": "heading",
           "settings": {
             "heading": "Custom Collection",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_Cm6ryK": {
@@ -219,6 +219,146 @@
         "show_description": false,
         "description_style": "body",
         "collection": "custom-collection",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_E46gFJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_dyrWPc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Me Collection",
+            "heading_size": "h2"
+          }
+        },
+        "text_jVXkEy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Because it matters...<\/p>"
+          }
+        },
+        "button_GEKYUR": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dyrWPc",
+        "text_jVXkEy",
+        "button_GEKYUR"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_mWFPiw": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bracelets",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_faL9FH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bVFeDe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mystic Collection",
+            "heading_size": "h2"
+          }
+        },
+        "text_z87zCH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Of this world and beyond...<\/p>"
+          }
+        },
+        "button_7UDFTH": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bVFeDe",
+        "text_z87zCH",
+        "button_7UDFTH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_xzVffc": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mens-collection",
         "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": false,
@@ -702,6 +842,10 @@
     "featured_collection_RHfhnW",
     "rich_text_dTxqJM",
     "featured_collection_jKrmqV",
+    "rich_text_E46gFJ",
+    "featured_collection_mWFPiw",
+    "rich_text_faL9FH",
+    "featured_collection_xzVffc",
     "image_banner_JnCCfH",
     "slideshow_YBRr7D",
     "featured_collection_Nx6C4k",
