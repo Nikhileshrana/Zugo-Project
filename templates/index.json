@@ -59,7 +59,7 @@
         "h2 {color: #404649; font-size: 2.5vw; width: 100%;}",
         "a {background-color: #404649; color: white;}",
         "a::after {box-shadow: calc(var(--buttons-border-width) + var(--border-offset)) rgb(64, 70, 73);}",
-        "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; left: 0%; } h2 {color: #404649; font-size: 1.5rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
+        "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; left: 0%; } h2 {color: #404649; font-size: 1.7rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Zugo_background_forever_spot_3.png",
