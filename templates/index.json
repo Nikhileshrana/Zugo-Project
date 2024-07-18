@@ -515,7 +515,7 @@
         "button_3rjz8U"
       ],
       "custom_css": [
-        ".button {background-color: #FFFEF7; color: #5c6a74;}"
+        ".button {background-color: #fffef7; color: #5c6a74;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -642,6 +642,9 @@
         "heading_6CNxrP",
         "text_kd3HH4",
         "button_JnBB8q"
+      ],
+      "custom_css": [
+        ".button {background-color: #fffef7; color: #5c6a74;}"
       ],
       "settings": {
         "desktop_content_position": "center",
