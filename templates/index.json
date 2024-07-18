@@ -55,7 +55,9 @@
       ],
       "custom_css": [
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
-        "@media (min-width: 768px) {.banner__box {position: absolute; left: 0.5%; bottom: 25%; padding: 0px; margin: 0px; } h2 {color: #404649; font-size: 2.5vw; width: 100%; } a {background-color: #404649; color: white; }}",
+        ".banner__box {position: absolute; left:5%; bottom: 25%; padding: 0px; margin: 0px;}",
+        "h2 {color: #404649; font-size: 2.5vw; width: 100%;}",
+        "a {background-color: #404649; color: white;}",
         "@media (max-width: 450px) {.banner__box {position: relative; top: 30%; } h2 {color: #404649; font-size: 3rem; } a {background-color: #404649; color: white; padding-top: 0.2em; }}"
       ],
       "settings": {
