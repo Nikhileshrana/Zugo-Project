@@ -435,14 +435,14 @@
         "heading_Eq8PxB": {
           "type": "heading",
           "settings": {
-            "heading": "HANDCRAFTED IN BHARAT",
+            "heading": "",
             "heading_size": "h2"
           }
         },
         "text_ap8dgx": {
           "type": "text",
           "settings": {
-            "text": "Where stories become bespoke jewellery. From our hands to your heart.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -623,6 +623,54 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner_zDDJM9": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QzbWaL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bespoke Jewellery",
+            "heading_size": "h2"
+          }
+        },
+        "text_WNeK4n": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_8EGjtk": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QzbWaL",
+        "text_WNeK4n",
+        "buttons_8EGjtk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/custom_pendant_photoshoot.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rich_text_NMYTh6": {
@@ -825,6 +873,7 @@
     "rich_text_FRPzpe",
     "rich_text_BrB9Mf",
     "slideshow_FLrXJV",
+    "image_banner_zDDJM9",
     "rich_text_NMYTh6",
     "image_banner_Grw87d",
     "rich_text_xDMjt7",
