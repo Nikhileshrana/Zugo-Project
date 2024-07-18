@@ -514,6 +514,9 @@
         "text_xWpWhh",
         "button_3rjz8U"
       ],
+      "custom_css": [
+        ".button {background-color: white; color:#5C6A74;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
