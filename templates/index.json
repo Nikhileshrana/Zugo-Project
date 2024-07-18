@@ -480,6 +480,48 @@
         "show_text_below": false
       }
     },
+    "rich_text_FRPzpe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LHkwma": {
+          "type": "heading",
+          "settings": {
+            "heading": "HANDCRAFTED IN BHARAT",
+            "heading_size": "h2"
+          }
+        },
+        "text_xWpWhh": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Where stories become bespoke jewellery. From our hands to your heart.<\/h5>"
+          }
+        },
+        "button_3rjz8U": {
+          "type": "button",
+          "settings": {
+            "button_label": "CUSTOMISE NOW",
+            "button_link": "shopify:\/\/pages\/shop-all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_LHkwma",
+        "text_xWpWhh",
+        "button_3rjz8U"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_BrB9Mf": {
       "type": "rich-text",
       "blocks": {
@@ -780,6 +822,7 @@
     "slideshow_FFNdyc",
     "slideshow_XNWwhL",
     "image_banner_yUHjXt",
+    "rich_text_FRPzpe",
     "rich_text_BrB9Mf",
     "slideshow_FLrXJV",
     "rich_text_NMYTh6",
