@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         "#Banner-template--20699447230499__image_banner_N6h4iC {min-height: 85vh;}",
-        ".banner__box {border: 1px red solid; padding: 0px; position: relative; bottom: 20%; right: 7%;}",
+        ".banner__box {padding: 0px; position: relative; bottom: 20%; left:-3%;}",
         "h2 {color: #404649; font-size: 2.5vw; width: 100%;}",
         "a {background-color: #404649; color: white;}",
         "a::after {box-shadow: calc(var(--buttons-border-width) + var(--border-offset)) rgb(64, 70, 73);}",
