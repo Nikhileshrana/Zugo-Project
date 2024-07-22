@@ -25,7 +25,7 @@
         "heading_wUyQU3": {
           "type": "heading",
           "settings": {
-            "heading": "Jewellery That Speaks Personalised Cherished Forever",
+            "heading": "Jewellery That Speaks<br>Personalised Cherished Forever",
             "heading_size": "h2"
           }
         },
@@ -594,7 +594,7 @@
         "slide_8qrnxW"
       ],
       "custom_css": [
-        "h2 {color: #575F66;}",
+        "h2 {color: #575f66;}",
         "slideshow-component .slideshow {object-fit: cover; height: auto; min-height: 92vh; width: 100%; overflow: hidden;}",
         "@media only screen and (max-width: 768px) {slideshow-component .slideshow {min-height: 60vh; }}",
         "@media (max-width: 768px) {.slider-buttons > :nth-child(1) {position: absolute; right: 86%; height: 100%; bottom: 3%; } .slider-buttons > :nth-child(3) {position: absolute; left: 86%; height: 100%; bottom: 3%; }}"
