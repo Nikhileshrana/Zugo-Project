@@ -835,6 +835,15 @@
         "padding_top": 0,
         "padding_bottom": 40
       }
+    },
+    "custom_liquid_F4nkrQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "Div under Development.",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -859,6 +868,7 @@
     "rich_text_NMYTh6",
     "image_banner_Grw87d",
     "rich_text_xDMjt7",
-    "rich_text_bU9AJY"
+    "rich_text_bU9AJY",
+    "custom_liquid_F4nkrQ"
   ]
 }
