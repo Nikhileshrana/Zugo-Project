@@ -836,6 +836,29 @@
         "padding_bottom": 40
       }
     },
+    "rich_text_wjmKJe": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4dHWDi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Client Reviews",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4dHWDi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "custom_liquid_F4nkrQ": {
       "type": "custom-liquid",
       "settings": {
@@ -869,6 +892,7 @@
     "image_banner_Grw87d",
     "rich_text_xDMjt7",
     "rich_text_bU9AJY",
+    "rich_text_wjmKJe",
     "custom_liquid_F4nkrQ"
   ]
 }
