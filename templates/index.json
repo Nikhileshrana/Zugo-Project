@@ -199,7 +199,7 @@
       ],
       "custom_css": [
         "h2,a {color: white;}",
-        "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 80vh; border:1px red solid; width:100%; overflow:hidden;}",
+        "#Banner-template--20699447230499__image_banner_GxEwPf {min-height: 80vh; width: 100%; overflow: hidden;}",
         "@media (max-width: 450px) {#Banner-template--20699447230499__image_banner_GxEwPf {width: 100vw; min-height: 90vh; } #Banner-template--20699447230499__image_banner_GxEwPf > div > img {object-fit: cover; height: 100%; width: 100%; }}"
       ],
       "settings": {
