@@ -71,6 +71,12 @@
             "custom_liquid": "<div id=\"nikhileshranatestingspotoneandtwo\">\n                <label  for=\"location\"><strong>Enter Location Coordinates<\/strong><\/label>\n                <p style=\" margin:0px;\">Please refer to our video for finding location coorindates using google maps. Separate coorindates with a comma.<\/p>                \n                <textarea\nrequired\nstyle=\"height: 45px;\" id=\"location\"  maxlength=\"30\"\n placeholder=\" 19.160710, 72.855366\" name=\"properties[location]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div>"
           }
         },
+        "custom_liquid_R8URW8": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "custom_liquid_qPDa7K": {
           "type": "custom_liquid",
           "settings": {
@@ -112,6 +118,7 @@
         "variant_picker",
         "custom_liquid_UeBCAR",
         "custom_liquid_3tCFMQ",
+        "custom_liquid_R8URW8",
         "custom_liquid_qPDa7K",
         "quantity_selector",
         "buy_buttons",
