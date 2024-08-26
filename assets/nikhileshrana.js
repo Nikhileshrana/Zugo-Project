@@ -12,10 +12,8 @@ instagram_new_win.setAttribute('target', '_blank');
 
 
 // Header Logo Change as it ewxit mobile width
-
-
-
 const imageUrl = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/Zugo_logo_png_no_background.png?v=1720187496';
+
 
 // Function to replace span with img
 function replaceSpanWithImage() {
