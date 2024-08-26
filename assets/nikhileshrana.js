@@ -213,6 +213,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (productTitlenikhileshrana === 'Forever Spot S1' || productTitlenikhileshrana === 'Forever Spot S2') {
         targetElementnikhileshrana.style.display = 'block';
+      vibestargetelementnikhileshrana.style.display = 'none';
     }
     else if(productTitlenikhileshrana === 'Vibes Custom Message')
       {
@@ -221,6 +222,7 @@ document.addEventListener("DOMContentLoaded", function() {
       }
     else {
         targetElementnikhileshrana.style.display = 'none';
+      vibestargetelementnikhileshrana.style.display = 'none';
     }
 });
 
