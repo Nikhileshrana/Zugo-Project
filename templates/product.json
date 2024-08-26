@@ -74,7 +74,7 @@
         "custom_liquid_R8URW8": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div id = \"nikhileshranatestingvibescustom\">\n                <label  for=\"frontengrave\"><strong>Custom Front Engraving<\/strong><\/label>\n                <p style=\" margin:0px;\">Enter front engraving text here.<\/p>                \n                <textarea\nrequired\nstyle=\"height: 45px;\" id=\"frontengrave\"  maxlength=\"30\"\n placeholder=\"In God We Trust\" name=\"properties[frontengrave]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div >"
+            "custom_liquid": "<div id = \"nikhileshranatestingvibescustom\">\n                <label  for=\"frontengrave\"><strong>Custom Front Engraving<\/strong><\/label>\n                <p style=\" margin:0px;\">Limit 50 characters including letters, spaces, and symbols.<\/p>                \n                <textarea\nrequired\nstyle=\"height: 45px;\" id=\"frontengrave\"  maxlength=\"30\"\n placeholder=\"In God We Trust\" name=\"properties[frontengrave]\"\n                    form=\"product-form-{{ section.id }}\"><\/textarea><\/div >"
           }
         },
         "custom_liquid_qPDa7K": {
