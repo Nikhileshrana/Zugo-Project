@@ -165,12 +165,6 @@
 
     ],
     "blocks": {
-      "8194784159926722659": {
-        "type": "shopify:\/\/apps\/gg-product-page-slider-gallery\/blocks\/app-embed-block\/09c0440b-b921-435c-a2f5-3fc8f53b0424",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "13768625480086291342": {
         "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": true,
@@ -195,18 +189,6 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
-        }
-      },
-      "5166220990996846296": {
-        "type": "shopify:\/\/apps\/ga-addons-gift-wrap-add-ons\/blocks\/app-embeded\/5999adcd-8395-46e2-b546-af1a82aaaf25",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
         }
       }
     },
