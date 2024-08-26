@@ -209,11 +209,17 @@ document.addEventListener('DOMContentLoaded', function() {
 document.addEventListener("DOMContentLoaded", function() {
     const productTitlenikhileshrana = document.querySelector('.product__title h1').textContent;
     const targetElementnikhileshrana = document.getElementById('nikhileshranatestingspotoneandtwo');
-    
+    const vibestargetelementnikhileshrana = document.getElementById('nikhileshranatestingvibescustom');
 
     if (productTitlenikhileshrana === 'Forever Spot S1' || productTitlenikhileshrana === 'Forever Spot S2') {
         targetElementnikhileshrana.style.display = 'block';
-    } else {
+    }
+    else if(productTitlenikhileshrana === 'Vibes Custom Message')
+      {
+      vibestargetelementnikhileshrana.style.display = 'block';
+      targetElementnikhileshrana.style.display = 'none';
+      }
+    else {
         targetElementnikhileshrana.style.display = 'none';
     }
 });
