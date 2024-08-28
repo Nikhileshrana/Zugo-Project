@@ -4,30 +4,6 @@
 
 
 
-<script>
-
-gtag('event', 'conversion', {
-
-'send_to': 'AW-16639451635',
-
-'value': {{ checkout.subtotal_price | divided_by: 100.0)],
-
-'currency': '{{ currency }}',
-
-'transaction_id': '{{ order_number}}',
-
-});
-
-</script>
-
-
-    
-
-<!-- Event snippet for Page view conversion page -->
-<script>
-  gtag('event', 'conversion', {'send_to': 'AW-16639451635/_iGoCMXk_ssZEPPDp_49'});
-</script>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16639451635"></script>
 <script>
@@ -36,6 +12,20 @@ gtag('event', 'conversion', {
   gtag('js', new Date());
 
   gtag('config', 'AW-16639451635');
+</script>
+
+<!-- Event snippet for Page view conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-16639451635/_iGoCMXk_ssZEPPDp_49'});
+</script>
+
+<script>
+gtag('event', 'conversion', {
+'send_to': 'AW-16639451635/GT-K5QW74X9/G-1WCPPM6RDV/GT-PZ6FQ2BS',
+'value': {{ checkout.subtotal_price | divided_by: 100.0)],
+'currency': '{{ currency }}',
+'transaction_id': '{{ order_number}}',
+});
 </script>
 
 
