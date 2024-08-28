@@ -2,17 +2,26 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
 
+
+
 <script>
-  gtag('event', 'page_view', {
-    'send_to': 'AW-16639451635',
-    'value': "1.0",
-    'items': [{
-      'id': "{{ order_number }}",
-      'location_id': 'replace with value',
-      'google_business_vertical': 'custom'
-    }]
-  });
+
+gtag('event', 'conversion', {
+
+'send_to': '1234567',
+
+'value': {{ checkout.subtotal_price | divided_by: 100.0)],
+
+'currency': '{{ currency }}',
+
+'transaction_id': '{{ order_number}}',
+
+});
+
 </script>
+
+
+    
 
 <!-- Event snippet for Page view conversion page -->
 <script>
