@@ -163,13 +163,55 @@
         "padding_bottom": 44
       }
     },
+    "rich_text_Yr3af3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8k6dGd": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_WHYyNV": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Celebrate the places that matter with a custom coordinates pendant. Locate your spot on the map and keep the memory close to you forever. <\/h5>"
+          }
+        },
+        "button_R6VRjP": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8k6dGd",
+        "text_WHYyNV",
+        "button_R6VRjP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_GxEwPf": {
       "type": "image-banner",
       "blocks": {
         "heading_ebUNGQ": {
           "type": "heading",
           "settings": {
-            "heading": "Celebrate the places that matter with a custom coordinate amulet. Locate your spot on the map and keep the memory close to you forever",
+            "heading": "",
             "heading_size": "h2"
           }
         },
@@ -875,6 +917,7 @@
     "custom_liquid_yxTFeV",
     "featured_collection",
     "rich_text_ejgdJ3",
+    "rich_text_Yr3af3",
     "image_banner_GxEwPf",
     "slideshow_CjEfgY",
     "rich_text_xz3wGa",
