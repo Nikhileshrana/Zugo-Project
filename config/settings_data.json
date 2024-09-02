@@ -190,6 +190,12 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "15885977890469162556": {
+        "type": "shopify:\/\/apps\/ea-page-speed-boost-images\/blocks\/app-embed-block\/b667776a-3444-4aab-a7b6-a467a3438097",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
