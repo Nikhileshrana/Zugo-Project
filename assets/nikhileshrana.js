@@ -75,53 +75,53 @@ if (window.innerWidth > 600) {
 
 
 
-// //Home Image change for Mobile View
+//Home Image change for Mobile View
 
-// document.addEventListener('DOMContentLoaded', function() {
-//   // Select the parent element
-//   const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC');
-//   const mynewimageElement2 = document.querySelector('#Banner-template--20699447230499__image_banner_GxEwPf');
-
-  
-
-//   const nikhileshranazugoworktestingthis1 = mynewimageElement.querySelector('div.banner__media');
-//   const nikhileshranazugoworktestingthis2 = nikhileshranazugoworktestingthis1.querySelector('img');
-
-
-//   const nikhileshranazugoworktestingthis11 = mynewimageElement2.querySelector('div.banner__media');
-//   const nikhileshranazugoworktestingthis12 = nikhileshranazugoworktestingthis11.querySelector('img');
-
+document.addEventListener('DOMContentLoaded', function() {
+  // Select the parent element
+  const mynewimageElement = document.querySelector('#Banner-template--20699447230499__image_banner_N6h4iC');
+  const mynewimageElement2 = document.querySelector('#Banner-template--20699447230499__image_banner_GxEwPf');
 
   
 
-//   const originalImageSrc = nikhileshranazugoworktestingthis2.src;
-//   const originalImageSrc2 = nikhileshranazugoworktestingthis12.src;
+  const nikhileshranazugoworktestingthis1 = mynewimageElement.querySelector('div.banner__media');
+  const nikhileshranazugoworktestingthis2 = nikhileshranazugoworktestingthis1.querySelector('img');
+
+
+  const nikhileshranazugoworktestingthis11 = mynewimageElement2.querySelector('div.banner__media');
+  const nikhileshranazugoworktestingthis12 = nikhileshranazugoworktestingthis11.querySelector('img');
+
+
   
-//   const alternativeImageSrc = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/IMG_011.jpg?v=1719990696';
-//   const alternativeImageSrc2 = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/022.jpg?v=1719991397';
+
+  const originalImageSrc = nikhileshranazugoworktestingthis2.src;
+  const originalImageSrc2 = nikhileshranazugoworktestingthis12.src;
+  
+  const alternativeImageSrc = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/IMG_011.jpg?v=1719990696';
+  const alternativeImageSrc2 = 'https://cdn.shopify.com/s/files/1/0695/2232/5539/files/022.jpg?v=1719991397';
 
 
-//   function updateImageSource() {
-//     if (window.innerWidth < 450) {
-//       nikhileshranazugoworktestingthis2.src = alternativeImageSrc;
-//       nikhileshranazugoworktestingthis2.removeAttribute('srcset');
+  function updateImageSource() {
+    if (window.innerWidth < 450) {
+      nikhileshranazugoworktestingthis2.src = alternativeImageSrc;
+      nikhileshranazugoworktestingthis2.removeAttribute('srcset');
 
-//       nikhileshranazugoworktestingthis12.src = alternativeImageSrc2;
-//       nikhileshranazugoworktestingthis12.removeAttribute('srcset');
+      nikhileshranazugoworktestingthis12.src = alternativeImageSrc2;
+      nikhileshranazugoworktestingthis12.removeAttribute('srcset');
       
-//     } else {
-//       console.log("Desktop View");
-//     }
-//   }
+    } else {
+      console.log("Desktop View");
+    }
+  }
 
-//   // Initial check
-//   updateImageSource();
+  // Initial check
+  updateImageSource();
 
-//   // Update on window resize
-//   window.addEventListener('resize', updateImageSource);
-// });
+  // Update on window resize
+  window.addEventListener('resize', updateImageSource);
+});
 
-// //Ends Here
+//Ends Here
 
 
 
